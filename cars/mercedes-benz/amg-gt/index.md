@@ -5,3 +5,5 @@ permalink: /mercedes-benz/amg-gt/
 ---
 **Select year**
 
+- [2015](/mercedes-benz/amg-gt/2015/)
+- [2016](/mercedes-benz/amg-gt/2016/)
