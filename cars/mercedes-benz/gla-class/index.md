@@ -5,3 +5,6 @@ permalink: /mercedes-benz/gla-class/
 ---
 **Select year**
 
+- [2014](/mercedes-benz/gla-class/2014/)
+- [2015](/mercedes-benz/gla-class/2015/)
+- [2016](/mercedes-benz/gla-class/2016/)
