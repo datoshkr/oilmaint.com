@@ -6,7 +6,7 @@ permalink: /audi/a4-s4/1996/
 Manual Reset using Odometer and Reset Knobs:
 1. Turn off the ignition.
 2. Locate the Service Interval Display, which is below the odometer.
-3. Do the following to display the service OIL message in the Service Interval Display:
+3. Do the following to display the service OIL message in the Service interval display:
     1. Press and hold the TRIP ODOMETER RESET knob.
     2. Turn on the ignition - do not start the engine.
     3. Release the TRIP ODOMETER RESET knob.
