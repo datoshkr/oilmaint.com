@@ -1,0 +1,5 @@
+---
+layout: default
+title: BMW 3 Series 1992
+permalink: /bmw/3-series/1992/
+---
