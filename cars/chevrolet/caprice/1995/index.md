@@ -1,5 +1,5 @@
 ---
 layout: default
-title: CAR MODEL YEAR
-permalink: /CAR/MODEL/YEAR/
+title: Chevrolet Caprice YEAR
+permalink: /chevrolet/caprice/YEAR/
 ---

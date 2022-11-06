@@ -1,5 +1,5 @@
 ---
 layout: default
-title: CAR MODEL YEAR
-permalink: /CAR/MODEL/YEAR/
+title: Chevrolet Aveo YEAR
+permalink: /chevrolet/aveo/YEAR/
 ---
