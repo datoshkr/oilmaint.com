@@ -1,5 +1,5 @@
 ---
 layout: default
-title: BMW MODEL YEAR
-permalink: /bmw/MODEL/YEAR/
+title: BMW X6 2015
+permalink: /bmw/x6/2015/
 ---

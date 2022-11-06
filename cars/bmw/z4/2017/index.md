@@ -1,5 +1,5 @@
 ---
 layout: default
-title: BMW MODEL YEAR
-permalink: /bmw/MODEL/YEAR/
+title: BMW Z4 2017
+permalink: /bmw/z4/2017/
 ---

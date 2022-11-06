@@ -1,5 +1,5 @@
 ---
 layout: default
-title: BMW MODEL YEAR
-permalink: /bmw/MODEL/YEAR/
+title: BMW 7 Series 2008
+permalink: /bmw/7-series/2008/
 ---
