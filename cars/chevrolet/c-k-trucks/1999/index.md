@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Chevrolet C/K Trucks YEAR
-permalink: /chevrolet/c-k-trucks/YEAR/
+title: Chevrolet C/K Trucks 1999
+permalink: /chevrolet/c-k-trucks/1999/
 ---
