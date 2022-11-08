@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Chevrolet Aveo YEAR
-permalink: /chevrolet/aveo/YEAR/
+title: Chevrolet Aveo 2010
+permalink: /chevrolet/aveo/2010/
 ---
