@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Chevrolet Avalanche YEAR
-permalink: /chevrolet/avalanche/YEAR/
+title: Chevrolet Avalanche 2009
+permalink: /chevrolet/avalanche/2009/
 ---
