@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Chevrolet Camaro YEAR
-permalink: /chevrolet/camaro/YEAR/
+title: Chevrolet Camaro 1999
+permalink: /chevrolet/camaro/1999/
 ---
