@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Chevrolet City Express YEAR
-permalink: /chevrolet/city-express/YEAR/
+title: Chevrolet City Express 2015
+permalink: /chevrolet/city-express/2015/
 ---
