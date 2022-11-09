@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Chevrolet Caprice YEAR
-permalink: /chevrolet/caprice/YEAR/
+title: Chevrolet Caprice 1996
+permalink: /chevrolet/caprice/1996/
 ---
