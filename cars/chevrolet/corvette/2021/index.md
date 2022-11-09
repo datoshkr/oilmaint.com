@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Chevrolet MODEL YEAR
-permalink: /chevrolet/MODEL/YEAR/
+title: Chevrolet Corvette 2021
+permalink: /chevrolet/corvette/2021/
 ---
