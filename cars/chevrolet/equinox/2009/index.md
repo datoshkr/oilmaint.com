@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Chevrolet MODEL YEAR
-permalink: /chevrolet/MODEL/YEAR/
+title: Chevrolet Equinox 2009
+permalink: /chevrolet/equinox/2009/
 ---
