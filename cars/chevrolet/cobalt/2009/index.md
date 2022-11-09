@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Chevrolet Cobalt YEAR
-permalink: /chevrolet/cobalt/YEAR/
+title: Chevrolet Cobalt 2009
+permalink: /chevrolet/cobalt/2009/
 ---
