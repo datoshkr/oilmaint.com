@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Chevrolet Captiva YEAR
-permalink: /chevrolet/captiva/YEAR/
+title: Chevrolet Captiva 2014
+permalink: /chevrolet/captiva/2014/
 ---
