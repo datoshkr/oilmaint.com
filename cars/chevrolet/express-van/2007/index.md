@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Chevrolet MODEL 2007
-permalink: /chevrolet/MODEL/2007/
+title: Chevrolet Express Van 2007
+permalink: /chevrolet/express-van/2007/
 ---
