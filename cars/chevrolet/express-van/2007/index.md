@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Chevrolet MODEL YEAR
-permalink: /chevrolet/MODEL/YEAR/
+title: Chevrolet MODEL 2007
+permalink: /chevrolet/MODEL/2007/
 ---
