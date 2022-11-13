@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Chevrolet MODEL YEAR
-permalink: /chevrolet/MODEL/YEAR/
+title: Chevrolet Monte Carlo 2007
+permalink: /chevrolet/monte-carlo/2007/
 ---

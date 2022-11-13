@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chevrolet Monte chevroletlo
+title: Chevrolet Monte Carlo
 permalink: /chevrolet/monte-carlo/
 ---
 **Select year**
