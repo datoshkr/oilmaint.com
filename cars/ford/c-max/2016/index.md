@@ -1,5 +1,5 @@
 ---
 layout: default
 title: Ford MODEL YEAR
-permalink: /ford/MODELLINK/YEAR/
+permalink: /ford/c-max/YEAR/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Dodge MODEL YEAR
-permalink: /dodge/MODELLINK/YEAR/
+title: Dodge Avenger YEAR
+permalink: /dodge/avenger/YEAR/
 ---
