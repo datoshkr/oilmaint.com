@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Chevrolet MODEL YEAR
-permalink: /chevrolet/MODEL/YEAR/
+title: Chevrolet Trailblazer 2005
+permalink: /chevrolet/trailblazer/2005/
 ---
