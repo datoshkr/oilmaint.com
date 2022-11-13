@@ -1,5 +1,5 @@
 ---
 layout: default
-title: CAR MODEL YEAR
+title: Honda MODEL YEAR
 permalink: /CAR/MODEL/YEAR/
 ---

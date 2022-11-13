@@ -1,5 +1,5 @@
 ---
 layout: default
-title: CAR MODEL YEAR
+title: Mitsubishi MODEL YEAR
 permalink: /CAR/MODEL/YEAR/
 ---
