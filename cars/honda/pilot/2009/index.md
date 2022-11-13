@@ -1,5 +1,5 @@
 ---
 layout: default
 title: Honda MODEL YEAR
-permalink: /honda/MODELLINK/YEAR/
+permalink: /honda/pilot/YEAR/
 ---
