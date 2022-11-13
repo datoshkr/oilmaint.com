@@ -1,5 +1,5 @@
 ---
 layout: default
 title: Land Rover MODEL YEAR
-permalink: /CAR/MODEL/YEAR/
+permalink: /land-rover/MODELLINK/YEAR/
 ---

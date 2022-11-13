@@ -1,5 +1,5 @@
 ---
 layout: default
 title: Dodge MODEL YEAR
-permalink: /CAR/MODEL/YEAR/
+permalink: /dodge/MODELLINK/YEAR/
 ---

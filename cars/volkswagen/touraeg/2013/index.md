@@ -1,5 +1,5 @@
 ---
 layout: default
 title: Volkswagen MODEL YEAR
-permalink: /CAR/MODEL/YEAR/
+permalink: /volkswagen/MODELLINK/YEAR/
 ---

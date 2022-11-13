@@ -1,5 +1,5 @@
 ---
 layout: default
 title: Volvo MODEL YEAR
-permalink: /CAR/MODEL/YEAR/
+permalink: /volvo/MODELLINK/YEAR/
 ---

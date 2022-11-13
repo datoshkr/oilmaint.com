@@ -1,5 +1,5 @@
 ---
 layout: default
 title: Mazda MODEL YEAR
-permalink: /CAR/MODEL/YEAR/
+permalink: /mazda/MODELLINK/YEAR/
 ---

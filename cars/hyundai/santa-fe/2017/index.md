@@ -1,5 +1,5 @@
 ---
 layout: default
 title: Hyundai MODEL YEAR
-permalink: /CAR/MODEL/YEAR/
+permalink: /hyundai/MODELLINK/YEAR/
 ---

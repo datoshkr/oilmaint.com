@@ -1,5 +1,5 @@
 ---
 layout: default
 title: Kia MODEL YEAR
-permalink: /CAR/MODEL/YEAR/
+permalink: /kia/MODELLINK/YEAR/
 ---
