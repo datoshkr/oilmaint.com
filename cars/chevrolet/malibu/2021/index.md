@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Chevrolet MODEL YEAR
-permalink: /chevrolet/MODEL/YEAR/
+title: Chevrolet Malibu 2021
+permalink: /chevrolet/malibu/2021/
 ---
