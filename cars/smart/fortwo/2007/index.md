@@ -1,5 +1,5 @@
 ---
 layout: default
 title: Smart MODEL YEAR
-permalink: /smart/MODELLINK/YEAR/
+permalink: /smart/fortwo/YEAR/
 ---
