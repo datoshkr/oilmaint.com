@@ -1,5 +1,5 @@
 ---
 layout: default
 title: Lexus MODEL YEAR
-permalink: /lexus/MODELLINK/YEAR/
+permalink: /lexus/sc-series/YEAR/
 ---
