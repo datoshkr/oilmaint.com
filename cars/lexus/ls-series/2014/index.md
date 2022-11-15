@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Lexus MODEL YEAR
+title: Lexus LS-Series YEAR
 permalink: /lexus/ls-series/YEAR/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Mercedes Benz MODEL YEAR
+title: Mercedes Benz Maybach YEAR
 permalink: /mercedes-benz/maybach/YEAR/
 ---

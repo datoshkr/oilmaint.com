@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Ford MODEL YEAR
+title: Ford Explorer YEAR
 permalink: /ford/explorer/YEAR/
 ---

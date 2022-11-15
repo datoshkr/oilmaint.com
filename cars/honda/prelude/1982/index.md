@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Honda MODEL YEAR
+title: Honda Prelude YEAR
 permalink: /honda/prelude/YEAR/
 ---

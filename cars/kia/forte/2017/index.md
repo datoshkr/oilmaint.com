@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Kia MODEL YEAR
+title: Kia Forte YEAR
 permalink: /kia/forte/YEAR/
 ---

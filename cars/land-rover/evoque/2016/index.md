@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Land Rover MODEL YEAR
+title: Land Rover Evoque YEAR
 permalink: /land-rover/evoque/YEAR/
 ---

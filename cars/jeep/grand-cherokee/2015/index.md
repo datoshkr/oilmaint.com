@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Jeep MODEL YEAR
+title: Jeep Grand Cherokee YEAR
 permalink: /jeep/grand-cherokee/YEAR/
 ---

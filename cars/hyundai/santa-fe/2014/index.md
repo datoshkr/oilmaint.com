@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Hyundai MODEL YEAR
+title: Hyundai Santa Fe YEAR
 permalink: /hyundai/santa-fe/YEAR/
 ---

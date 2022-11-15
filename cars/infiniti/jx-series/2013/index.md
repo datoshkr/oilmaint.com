@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Infiniti MODEL YEAR
+title: Infiniti JX Series YEAR
 permalink: /infiniti/jx-series/YEAR/
 ---

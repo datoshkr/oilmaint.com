@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Ford MODEL YEAR
+title: Ford Sport Trac YEAR
 permalink: /ford/sport-trac/YEAR/
 ---

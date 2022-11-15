@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Honda MODEL YEAR
+title: Honda CRX YEAR
 permalink: /honda/crx/YEAR/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Honda MODEL YEAR
+title: Honda Civic YEAR
 permalink: /honda/civic/YEAR/
 ---

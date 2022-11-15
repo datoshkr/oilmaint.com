@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Jeep MODEL YEAR
+title: Jeep Commander YEAR
 permalink: /jeep/commander/YEAR/
 ---

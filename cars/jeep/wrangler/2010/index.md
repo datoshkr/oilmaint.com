@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Jeep MODEL YEAR
+title: Jeep Wrangler YEAR
 permalink: /jeep/wrangler/YEAR/
 ---

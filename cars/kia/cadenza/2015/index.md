@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Kia MODEL YEAR
+title: Kia Cadenza YEAR
 permalink: /kia/cadenza/YEAR/
 ---

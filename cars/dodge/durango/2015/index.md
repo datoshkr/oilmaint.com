@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Dodge MODEL YEAR
+title: Dodge Durango YEAR
 permalink: /dodge/durango/YEAR/
 ---

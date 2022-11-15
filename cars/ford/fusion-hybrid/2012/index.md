@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Ford MODEL YEAR
+title: Ford Fusion Hybrid YEAR
 permalink: /ford/fusion-hybrid/YEAR/
 ---

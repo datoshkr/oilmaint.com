@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Kia MODEL YEAR
+title: Kia K900 YEAR
 permalink: /kia/k900/YEAR/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Ford MODEL YEAR
+title: Ford Crown Victoria YEAR
 permalink: /ford/crown-victoria/YEAR/
 ---

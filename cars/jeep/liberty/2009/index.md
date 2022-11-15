@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Jeep MODEL YEAR
+title: Jeep Liberty YEAR
 permalink: /jeep/liberty/YEAR/
 ---

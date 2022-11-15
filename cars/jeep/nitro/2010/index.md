@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Jeep MODEL YEAR
+title: Jeep Nitro YEAR
 permalink: /jeep/nitro/YEAR/
 ---

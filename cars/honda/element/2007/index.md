@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Honda MODEL YEAR
+title: Honda Element YEAR
 permalink: /honda/element/YEAR/
 ---

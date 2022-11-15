@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Lexus MODEL YEAR
+title: Lexus CT-Series YEAR
 permalink: /lexus/ct-series/YEAR/
 ---

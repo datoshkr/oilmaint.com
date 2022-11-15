@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Dodge MODEL YEAR
+title: Dodge Dakota YEAR
 permalink: /dodge/dakota/YEAR/
 ---

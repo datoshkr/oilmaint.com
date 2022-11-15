@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Ford MODEL YEAR
+title: Ford Mustang YEAR
 permalink: /ford/mustang/YEAR/
 ---

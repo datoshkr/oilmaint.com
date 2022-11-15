@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Honda MODEL YEAR
+title: Honda Odyssey YEAR
 permalink: /honda/odyssey/YEAR/
 ---

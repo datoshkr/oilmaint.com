@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Kia MODEL YEAR
+title: Kia Sedona YEAR
 permalink: /kia/sedona/YEAR/
 ---

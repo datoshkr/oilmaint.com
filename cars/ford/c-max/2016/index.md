@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Ford MODEL YEAR
+title: Ford C-MAX YEAR
 permalink: /ford/c-max/YEAR/
 ---

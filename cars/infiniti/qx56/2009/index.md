@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Infiniti MODEL YEAR
+title: Infiniti QX56 YEAR
 permalink: /infiniti/qx56/YEAR/
 ---

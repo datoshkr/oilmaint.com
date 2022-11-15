@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Kia MODEL YEAR
+title: Kia Soul YEAR
 permalink: /kia/soul/YEAR/
 ---

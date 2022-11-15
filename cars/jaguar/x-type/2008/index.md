@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Jaguar MODEL YEAR
+title: Jaguar X-TYPE YEAR
 permalink: /jaguar/x-type/YEAR/
 ---

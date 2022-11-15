@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Honda MODEL YEAR
+title: Honda Fit YEAR
 permalink: /honda/fit/YEAR/
 ---

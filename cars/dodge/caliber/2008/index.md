@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Dodge MODEL YEAR
+title: Dodge Caliber YEAR
 permalink: /dodge/caliber/YEAR/
 ---

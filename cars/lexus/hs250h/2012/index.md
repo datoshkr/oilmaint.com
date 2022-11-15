@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Lexus MODEL YEAR
+title: Lexus HS250H YEAR
 permalink: /lexus/hs250h/YEAR/
 ---

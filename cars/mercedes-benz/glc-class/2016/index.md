@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Mercedes Benz MODEL YEAR
+title: Mercedes Benz GLC-Class YEAR
 permalink: /mercedes-benz/glc-class/YEAR/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Hyundai MODEL YEAR
+title: Hyundai Elantra YEAR
 permalink: /hyundai/elantra/YEAR/
 ---

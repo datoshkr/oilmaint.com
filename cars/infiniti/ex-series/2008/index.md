@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Infiniti MODEL YEAR
+title: Infiniti EX Series YEAR
 permalink: /infiniti/ex-series/YEAR/
 ---

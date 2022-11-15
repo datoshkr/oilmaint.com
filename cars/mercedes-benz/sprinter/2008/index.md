@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Mercedes Benz MODEL YEAR
+title: Mercedes Benz Sprinter YEAR
 permalink: /mercedes-benz/sprinter/YEAR/
 ---

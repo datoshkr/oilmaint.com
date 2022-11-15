@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Ford MODEL YEAR
+title: Ford F-Series Pickup YEAR
 permalink: /ford/f-series-pickup/YEAR/
 ---

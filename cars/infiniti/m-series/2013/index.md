@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Infiniti MODEL YEAR
+title: Infiniti M Series YEAR
 permalink: /infiniti/m-series/YEAR/
 ---

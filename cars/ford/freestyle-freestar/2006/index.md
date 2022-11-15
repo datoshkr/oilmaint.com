@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Ford MODEL YEAR
+title: Ford Freestyle/Freestar YEAR
 permalink: /ford/freestyle-freestar/YEAR/
 ---

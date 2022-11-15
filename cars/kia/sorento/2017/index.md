@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Kia MODEL YEAR
+title: Kia Sorento YEAR
 permalink: /kia/sorento/YEAR/
 ---

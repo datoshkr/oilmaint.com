@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Kia MODEL YEAR
+title: Kia Rondo YEAR
 permalink: /kia/rondo/YEAR/
 ---

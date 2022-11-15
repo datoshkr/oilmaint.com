@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Land Rover MODEL YEAR
+title: Land Rover Range Rover Sport YEAR
 permalink: /land-rover/range-rover-sport/YEAR/
 ---

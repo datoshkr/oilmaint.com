@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Ford MODEL YEAR
+title: Ford Flex YEAR
 permalink: /ford/flex/YEAR/
 ---

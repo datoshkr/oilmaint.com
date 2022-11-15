@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Infiniti MODEL YEAR
+title: Infiniti G Series YEAR
 permalink: /infiniti/g-series/YEAR/
 ---

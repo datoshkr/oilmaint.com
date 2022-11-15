@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Kia MODEL YEAR
+title: Kia Niro YEAR
 permalink: /kia/niro/YEAR/
 ---

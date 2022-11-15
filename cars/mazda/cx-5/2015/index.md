@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Mazda MODEL YEAR
+title: Mazda CX-5 YEAR
 permalink: /mazda/cx-5/YEAR/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Honda MODEL YEAR
+title: Honda Accord YEAR
 permalink: /honda/accord/YEAR/
 ---

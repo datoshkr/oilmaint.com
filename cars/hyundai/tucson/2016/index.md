@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Hyundai MODEL YEAR
+title: Hyundai Tucson YEAR
 permalink: /hyundai/tucson/YEAR/
 ---

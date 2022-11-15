@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Honda MODEL YEAR
+title: Honda Insight YEAR
 permalink: /honda/insight/YEAR/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Lexus MODEL YEAR
+title: Lexus LFA YEAR
 permalink: /lexus/lfa/YEAR/
 ---

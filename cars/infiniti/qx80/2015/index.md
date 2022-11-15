@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Infiniti MODEL YEAR
+title: Infiniti QX80 YEAR
 permalink: /infiniti/qx80/YEAR/
 ---

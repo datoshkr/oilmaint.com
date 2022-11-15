@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Hyundai MODEL YEAR
+title: Hyundai Azera YEAR
 permalink: /hyundai/azera/YEAR/
 ---

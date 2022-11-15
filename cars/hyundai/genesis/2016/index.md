@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Hyundai MODEL YEAR
+title: Hyundai Genesis YEAR
 permalink: /hyundai/genesis/YEAR/
 ---

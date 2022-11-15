@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Jeep MODEL YEAR
+title: Jeep Compass YEAR
 permalink: /jeep/compass/YEAR/
 ---

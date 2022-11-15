@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Honda MODEL YEAR
+title: Honda Crosstour YEAR
 permalink: /honda/crosstour/YEAR/
 ---

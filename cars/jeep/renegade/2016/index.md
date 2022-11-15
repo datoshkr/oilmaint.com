@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Jeep MODEL YEAR
+title: Jeep Renegade YEAR
 permalink: /jeep/renegade/YEAR/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Ford MODEL YEAR
+title: Ford Expedition YEAR
 permalink: /ford/expedition/YEAR/
 ---

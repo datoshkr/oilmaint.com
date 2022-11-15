@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Hyundai MODEL YEAR
+title: Hyundai Equus YEAR
 permalink: /hyundai/equus/YEAR/
 ---

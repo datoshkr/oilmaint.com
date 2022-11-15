@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Honda MODEL YEAR
+title: Honda HR-V YEAR
 permalink: /honda/hr-v/YEAR/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Mercedes Benz MODEL YEAR
+title: Mercedes Benz A-Class YEAR
 permalink: /mercedes-benz/a-class/YEAR/
 ---

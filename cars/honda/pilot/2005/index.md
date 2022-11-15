@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Honda MODEL YEAR
+title: Honda Pilot YEAR
 permalink: /honda/pilot/YEAR/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Ford MODEL YEAR
+title: Ford Five Hundred YEAR
 permalink: /ford/five-hundred/YEAR/
 ---

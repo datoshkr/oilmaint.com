@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Hyundai MODEL YEAR
+title: Hyundai Sonata YEAR
 permalink: /hyundai/sonata/YEAR/
 ---

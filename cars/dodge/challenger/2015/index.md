@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Dodge MODEL YEAR
+title: Dodge Challenger YEAR
 permalink: /dodge/challenger/YEAR/
 ---

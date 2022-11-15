@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Mercedes Benz MODEL YEAR
+title: Mercedes Benz GLA-Class YEAR
 permalink: /mercedes-benz/gla-class/YEAR/
 ---

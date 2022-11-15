@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Kia MODEL YEAR
+title: Kia Sportage YEAR
 permalink: /kia/sportage/YEAR/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Honda MODEL YEAR
+title: Honda Ridgeline YEAR
 permalink: /honda/ridgeline/YEAR/
 ---

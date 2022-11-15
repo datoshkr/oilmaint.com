@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Ford MODEL YEAR
+title: Ford E-Series Van YEAR
 permalink: /ford/e-series-van/YEAR/
 ---

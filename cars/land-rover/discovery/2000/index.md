@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Land Rover MODEL YEAR
+title: Land Rover Discovery YEAR
 permalink: /land-rover/discovery/YEAR/
 ---
