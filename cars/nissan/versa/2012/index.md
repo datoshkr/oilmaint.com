@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Nissan MODEL YEAR
+title: Nissan Versa YEAR
 permalink: /nissan/versa/YEAR/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Nissan MODEL YEAR
+title: Nissan Rogue YEAR
 permalink: /nissan/rogue/YEAR/
 ---

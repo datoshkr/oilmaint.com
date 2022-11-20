@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Volkswagen MODEL YEAR
+title: Volkswagen Phaeton YEAR
 permalink: /volkswagen/phaeton/YEAR/
 ---

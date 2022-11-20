@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Toyota MODEL YEAR
+title: Toyota 4Runner YEAR
 permalink: /toyota/4runner/YEAR/
 ---

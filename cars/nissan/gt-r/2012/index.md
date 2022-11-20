@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Nissan MODEL YEAR
+title: Nissan GT-R YEAR
 permalink: /nissan/gt-r/YEAR/
 ---

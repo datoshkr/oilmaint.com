@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Toyota MODEL YEAR
+title: Toyota Camry YEAR
 permalink: /toyota/camry/YEAR/
 ---

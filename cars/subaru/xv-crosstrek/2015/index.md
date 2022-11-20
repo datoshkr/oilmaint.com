@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Subaru MODEL YEAR
+title: Subaru XV Crosstrek YEAR
 permalink: /subaru/xv-crosstrek/YEAR/
 ---

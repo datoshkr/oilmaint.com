@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Nissan MODEL YEAR
+title: Nissan Cube YEAR
 permalink: /nissan/cube/YEAR/
 ---

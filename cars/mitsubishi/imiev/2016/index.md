@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Mitsubishi MODEL YEAR
+title: Mitsubishi iMiEV YEAR
 permalink: /mitsubishi/imiev/YEAR/
 ---

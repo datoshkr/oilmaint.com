@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Toyota MODEL YEAR
+title: Toyota Prius V YEAR
 permalink: /toyota/prius-v/YEAR/
 ---

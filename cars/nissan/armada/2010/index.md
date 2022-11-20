@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Nissan MODEL YEAR
+title: Nissan Armada YEAR
 permalink: /nissan/armada/YEAR/
 ---

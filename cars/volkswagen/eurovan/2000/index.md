@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Volkswagen MODEL YEAR
+title: Volkswagen Eurovan YEAR
 permalink: /volkswagen/eurovan/YEAR/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Volkswagen MODEL YEAR
+title: Volkswagen Tiguan YEAR
 permalink: /volkswagen/tiguan/YEAR/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: default
-title: MINI MODEL YEAR
+title: MINI Cooper S YEAR
 permalink: /mini/cooper-s/YEAR/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Volkswagen MODEL YEAR
+title: Volkswagen CC YEAR
 permalink: /volkswagen/cc/YEAR/
 ---

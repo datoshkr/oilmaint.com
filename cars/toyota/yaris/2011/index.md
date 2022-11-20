@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Toyota MODEL YEAR
+title: Toyota Yaris YEAR
 permalink: /toyota/yaris/YEAR/
 ---

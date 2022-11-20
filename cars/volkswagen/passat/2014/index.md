@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Volkswagen MODEL YEAR
+title: Volkswagen Passat YEAR
 permalink: /volkswagen/passat/YEAR/
 ---

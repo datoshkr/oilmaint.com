@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Volkswagen MODEL YEAR
+title: Volkswagen Cabrio YEAR
 permalink: /volkswagen/cabrio/YEAR/
 ---

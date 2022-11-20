@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Nissan MODEL YEAR
+title: Nissan Xterra YEAR
 permalink: /nissan/xterra/YEAR/
 ---

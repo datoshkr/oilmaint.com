@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Toyota MODEL YEAR
+title: Toyota Avalon YEAR
 permalink: /toyota/avalon/YEAR/
 ---

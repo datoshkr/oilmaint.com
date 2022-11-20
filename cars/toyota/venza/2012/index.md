@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Toyota MODEL YEAR
+title: Toyota Venza YEAR
 permalink: /toyota/venza/YEAR/
 ---

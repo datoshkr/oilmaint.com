@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Subaru MODEL YEAR
+title: Subaru Forester YEAR
 permalink: /subaru/forester/YEAR/
 ---

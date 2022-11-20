@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Volvo MODEL YEAR
+title: Volvo V60 YEAR
 permalink: /volvo/v60/YEAR/
 ---

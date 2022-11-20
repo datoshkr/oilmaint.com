@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Volkswagen MODEL YEAR
+title: Volkswagen Golf/GTI YEAR
 permalink: /volkswagen/golf-gti/YEAR/
 ---

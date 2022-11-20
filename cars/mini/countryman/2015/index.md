@@ -1,5 +1,5 @@
 ---
 layout: default
-title: MINI MODEL YEAR
+title: MINI Countryman YEAR
 permalink: /mini/countryman/YEAR/
 ---

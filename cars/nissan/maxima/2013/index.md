@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Nissan MODEL YEAR
+title: Nissan Maxima YEAR
 permalink: /nissan/maxima/YEAR/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Nissan MODEL YEAR
+title: Nissan Frontier YEAR
 permalink: /nissan/frontier/YEAR/
 ---

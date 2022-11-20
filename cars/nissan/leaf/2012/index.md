@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Nissan MODEL YEAR
+title: Nissan Leaf YEAR
 permalink: /nissan/leaf/YEAR/
 ---

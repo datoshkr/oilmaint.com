@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Toyota MODEL YEAR
+title: Toyota FJ Cruiser YEAR
 permalink: /toyota/fj-cruiser/YEAR/
 ---

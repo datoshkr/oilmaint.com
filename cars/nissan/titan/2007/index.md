@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Nissan MODEL YEAR
+title: Nissan Titan YEAR
 permalink: /nissan/titan/YEAR/
 ---

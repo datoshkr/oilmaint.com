@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Toyota MODEL YEAR
+title: Toyota Land Cruiser YEAR
 permalink: /toyota/land-cruiser/YEAR/
 ---

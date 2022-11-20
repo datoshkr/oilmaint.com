@@ -1,5 +1,5 @@
 ---
 layout: default
-title: MINI MODEL YEAR
+title: MINI Clubman YEAR
 permalink: /mini/clubman/YEAR/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Toyota MODEL YEAR
+title: Toyota Highlander YEAR
 permalink: /toyota/highlander/YEAR/
 ---

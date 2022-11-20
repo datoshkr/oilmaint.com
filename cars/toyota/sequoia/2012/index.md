@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Toyota MODEL YEAR
+title: Toyota Sequoia YEAR
 permalink: /toyota/sequoia/YEAR/
 ---

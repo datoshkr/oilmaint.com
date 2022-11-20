@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Volkswagen MODEL YEAR
+title: Volkswagen Beetle YEAR
 permalink: /volkswagen/beetle/YEAR/
 ---

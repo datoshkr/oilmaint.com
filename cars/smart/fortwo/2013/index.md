@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Smart MODEL YEAR
+title: Smart fortwo YEAR
 permalink: /smart/fortwo/YEAR/
 ---

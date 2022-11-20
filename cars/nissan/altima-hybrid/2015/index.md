@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Nissan MODEL YEAR
-permalink: /nissan/MODELLINK/YEAR/
+title: Nissan Altima/Hybrid YEAR
+permalink: /nissan/Altima/HybridLINK/YEAR/
 ---

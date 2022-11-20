@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Toyota MODEL YEAR
+title: Toyota Corolla YEAR
 permalink: /toyota/corolla/YEAR/
 ---

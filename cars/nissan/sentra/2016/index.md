@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Nissan MODEL YEAR
+title: Nissan Sentra YEAR
 permalink: /nissan/sentra/YEAR/
 ---

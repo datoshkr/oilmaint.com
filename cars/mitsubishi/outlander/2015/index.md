@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Mitsubishi MODEL YEAR
+title: Mitsubishi Outlander YEAR
 permalink: /mitsubishi/outlander/YEAR/
 ---

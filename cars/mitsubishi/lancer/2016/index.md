@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Mitsubishi MODEL YEAR
+title: Mitsubishi Lancer YEAR
 permalink: /mitsubishi/lancer/YEAR/
 ---

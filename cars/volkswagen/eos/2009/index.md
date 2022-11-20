@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Volkswagen MODEL YEAR
+title: Volkswagen EOS YEAR
 permalink: /volkswagen/eos/YEAR/
 ---

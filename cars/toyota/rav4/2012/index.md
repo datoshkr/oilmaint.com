@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Toyota MODEL YEAR
+title: Toyota Rav4 YEAR
 permalink: /toyota/rav4/YEAR/
 ---

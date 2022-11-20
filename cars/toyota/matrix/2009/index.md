@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Toyota MODEL YEAR
+title: Toyota Matrix YEAR
 permalink: /toyota/matrix/YEAR/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Toyota MODEL YEAR
+title: Toyota Tacoma YEAR
 permalink: /toyota/tacoma/YEAR/
 ---

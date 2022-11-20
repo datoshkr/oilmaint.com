@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Mitsubishi MODEL YEAR
+title: Mitsubishi Mirage YEAR
 permalink: /mitsubishi/mirage/YEAR/
 ---

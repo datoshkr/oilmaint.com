@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Nissan MODEL YEAR
+title: Nissan Quest YEAR
 permalink: /nissan/quest/YEAR/
 ---

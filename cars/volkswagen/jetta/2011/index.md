@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Volkswagen MODEL YEAR
+title: Volkswagen Jetta YEAR
 permalink: /volkswagen/jetta/YEAR/
 ---
