@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Hyundai Santa Fe YEAR
-permalink: /hyundai/santa-fe/YEAR/
+title: Hyundai Santa Fe 2013
+permalink: /hyundai/santa-fe/2013/
 ---

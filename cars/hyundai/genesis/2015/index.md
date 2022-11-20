@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Hyundai Genesis YEAR
-permalink: /hyundai/genesis/YEAR/
+title: Hyundai Genesis 2015
+permalink: /hyundai/genesis/2015/
 ---

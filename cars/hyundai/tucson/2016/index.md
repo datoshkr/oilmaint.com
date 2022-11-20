@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Hyundai Tucson YEAR
-permalink: /hyundai/tucson/YEAR/
+title: Hyundai Tucson 2016
+permalink: /hyundai/tucson/2016/
 ---

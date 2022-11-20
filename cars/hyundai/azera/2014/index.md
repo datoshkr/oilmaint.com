@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Hyundai Azera YEAR
-permalink: /hyundai/azera/YEAR/
+title: Hyundai Azera 2014
+permalink: /hyundai/azera/2014/
 ---

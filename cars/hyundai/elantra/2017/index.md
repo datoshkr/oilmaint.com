@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Hyundai Elantra YEAR
-permalink: /hyundai/elantra/YEAR/
+title: Hyundai Elantra 2017
+permalink: /hyundai/elantra/2017/
 ---

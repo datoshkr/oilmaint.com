@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Hyundai Equus YEAR
-permalink: /hyundai/equus/YEAR/
+title: Hyundai Equus 2014
+permalink: /hyundai/equus/2014/
 ---

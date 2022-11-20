@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Hyundai Sonata YEAR
-permalink: /hyundai/sonata/YEAR/
+title: Hyundai Sonata 2016
+permalink: /hyundai/sonata/2016/
 ---
