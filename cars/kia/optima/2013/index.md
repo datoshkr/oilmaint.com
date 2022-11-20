@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Kia Optima YEAR
-permalink: /kia/optima/YEAR/
+title: Kia Optima 2013
+permalink: /kia/optima/2013/
 ---

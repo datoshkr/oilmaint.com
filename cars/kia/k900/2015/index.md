@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Kia K900 YEAR
-permalink: /kia/k900/YEAR/
+title: Kia K900 2015
+permalink: /kia/k900/2015/
 ---

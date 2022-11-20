@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Kia Rio YEAR
-permalink: /kia/rio/YEAR/
+title: Kia Rio 2017
+permalink: /kia/rio/2017/
 ---

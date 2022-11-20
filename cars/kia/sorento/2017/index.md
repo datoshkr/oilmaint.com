@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Kia Sorento YEAR
-permalink: /kia/sorento/YEAR/
+title: Kia Sorento 2017
+permalink: /kia/sorento/2017/
 ---

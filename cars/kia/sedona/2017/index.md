@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Kia Sedona YEAR
-permalink: /kia/sedona/YEAR/
+title: Kia Sedona 2017
+permalink: /kia/sedona/2017/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Kia Sportage YEAR
-permalink: /kia/sportage/YEAR/
+title: Kia Sportage 2017
+permalink: /kia/sportage/2017/
 ---

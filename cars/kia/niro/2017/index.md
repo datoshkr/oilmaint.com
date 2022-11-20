@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Kia Niro YEAR
-permalink: /kia/niro/YEAR/
+title: Kia Niro 2017
+permalink: /kia/niro/2017/
 ---

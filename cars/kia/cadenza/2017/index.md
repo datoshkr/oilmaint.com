@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Kia Cadenza YEAR
-permalink: /kia/cadenza/YEAR/
+title: Kia Cadenza 2017
+permalink: /kia/cadenza/2017/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Kia Forte YEAR
-permalink: /kia/forte/YEAR/
+title: Kia Forte 2017
+permalink: /kia/forte/2017/
 ---
