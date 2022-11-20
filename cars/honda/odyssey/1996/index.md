@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Honda Odyssey YEAR
-permalink: /honda/odyssey/YEAR/
+title: Honda Odyssey 1996
+permalink: /honda/odyssey/1996/
 ---

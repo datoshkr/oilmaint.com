@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Honda Civic YEAR
-permalink: /honda/civic/YEAR/
+title: Honda Civic 2001
+permalink: /honda/civic/2001/
 ---

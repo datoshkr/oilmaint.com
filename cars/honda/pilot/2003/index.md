@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Honda Pilot YEAR
-permalink: /honda/pilot/YEAR/
+title: Honda Pilot 2003
+permalink: /honda/pilot/2003/
 ---

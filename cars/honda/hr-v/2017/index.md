@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Honda HR-V YEAR
-permalink: /honda/hr-v/YEAR/
+title: Honda HR-V 2017
+permalink: /honda/hr-v/2017/
 ---

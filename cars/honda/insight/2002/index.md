@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Honda Insight YEAR
-permalink: /honda/insight/YEAR/
+title: Honda Insight 2002
+permalink: /honda/insight/2002/
 ---

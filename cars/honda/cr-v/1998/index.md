@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Honda CR-V YEAR
-permalink: /honda/cr-v/YEAR/
+title: Honda CR-V 1998
+permalink: /honda/cr-v/1998/
 ---

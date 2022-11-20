@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Honda Element YEAR
-permalink: /honda/element/YEAR/
+title: Honda Element 2006
+permalink: /honda/element/2006/
 ---

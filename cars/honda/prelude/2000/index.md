@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Honda Prelude YEAR
-permalink: /honda/prelude/YEAR/
+title: Honda Prelude 2000
+permalink: /honda/prelude/2000/
 ---

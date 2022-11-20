@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Honda Accord YEAR
-permalink: /honda/accord/YEAR/
+title: Honda Accord 1999
+permalink: /honda/accord/1999/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Honda Crosstour YEAR
-permalink: /honda/crosstour/YEAR/
+title: Honda Crosstour 2010
+permalink: /honda/crosstour/2010/
 ---

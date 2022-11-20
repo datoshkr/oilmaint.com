@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Honda Ridgeline YEAR
-permalink: /honda/ridgeline/YEAR/
+title: Honda Ridgeline 2011
+permalink: /honda/ridgeline/2011/
 ---

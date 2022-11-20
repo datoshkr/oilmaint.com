@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Honda CRX YEAR
-permalink: /honda/crx/YEAR/
+title: Honda CRX 1985
+permalink: /honda/crx/1985/
 ---
