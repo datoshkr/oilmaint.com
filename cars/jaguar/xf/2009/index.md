@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Jaguar XF YEAR
-permalink: /jaguar/xf/YEAR/
+title: Jaguar XF 2009
+permalink: /jaguar/xf/2009/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Jaguar XK YEAR
-permalink: /jaguar/xk/YEAR/
+title: Jaguar XK 2011
+permalink: /jaguar/xk/2011/
 ---

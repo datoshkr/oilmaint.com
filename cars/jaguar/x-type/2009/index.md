@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Jaguar X-TYPE YEAR
-permalink: /jaguar/x-type/YEAR/
+title: Jaguar X-TYPE 2009
+permalink: /jaguar/x-type/2009/
 ---
