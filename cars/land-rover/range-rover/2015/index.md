@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Land Rover Range Rover YEAR
-permalink: /land-rover/range-rover/YEAR/
+title: Land Rover Range Rover 2015
+permalink: /land-rover/range-rover/2015/
 ---

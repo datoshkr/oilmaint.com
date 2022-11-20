@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Land Rover LR2 YEAR
-permalink: /land-rover/lr2/YEAR/
+title: Land Rover LR2 2016
+permalink: /land-rover/lr2/2016/
 ---

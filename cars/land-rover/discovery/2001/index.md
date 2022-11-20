@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Land Rover Discovery YEAR
-permalink: /land-rover/discovery/YEAR/
+title: Land Rover Discovery 2001
+permalink: /land-rover/discovery/2001/
 ---

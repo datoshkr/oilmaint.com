@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Land Rover LR3 YEAR
-permalink: /land-rover/lr3/YEAR/
+title: Land Rover LR3 2009
+permalink: /land-rover/lr3/2009/
 ---

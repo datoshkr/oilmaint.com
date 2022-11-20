@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Land Rover Evoque YEAR
-permalink: /land-rover/evoque/YEAR/
+title: Land Rover Evoque 2016
+permalink: /land-rover/evoque/2016/
 ---
