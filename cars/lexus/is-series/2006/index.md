@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Lexus IS-Series YEAR
-permalink: /lexus/is-series/YEAR/
+title: Lexus IS-Series 2006
+permalink: /lexus/is-series/2006/
 ---

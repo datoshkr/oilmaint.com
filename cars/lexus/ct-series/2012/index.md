@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Lexus CT-Series YEAR
-permalink: /lexus/ct-series/YEAR/
+title: Lexus CT-Series 2012
+permalink: /lexus/ct-series/2012/
 ---

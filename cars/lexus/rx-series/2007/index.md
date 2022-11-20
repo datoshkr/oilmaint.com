@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Lexus RX-Series YEAR
-permalink: /lexus/rx-series/YEAR/
+title: Lexus RX-Series 2007
+permalink: /lexus/rx-series/2007/
 ---

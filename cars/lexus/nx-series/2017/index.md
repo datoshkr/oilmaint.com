@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Lexus NX-Series YEAR
-permalink: /lexus/nx-series/YEAR/
+title: Lexus NX-Series 2017
+permalink: /lexus/nx-series/2017/
 ---

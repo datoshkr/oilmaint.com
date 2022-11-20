@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Lexus GS-Series YEAR
-permalink: /lexus/gs-series/YEAR/
+title: Lexus GS-Series 2009
+permalink: /lexus/gs-series/2009/
 ---

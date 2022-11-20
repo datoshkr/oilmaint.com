@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Lexus RC-Series YEAR
-permalink: /lexus/rc-series/YEAR/
+title: Lexus RC-Series 2015
+permalink: /lexus/rc-series/2015/
 ---

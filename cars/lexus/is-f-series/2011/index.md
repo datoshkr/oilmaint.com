@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Lexus IS(F)-Series YEAR
-permalink: /lexus/is-f-series/YEAR/
+title: Lexus IS(F)-Series 2011
+permalink: /lexus/is-f-series/2011/
 ---

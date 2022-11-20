@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Lexus LFA YEAR
-permalink: /lexus/lfa/YEAR/
+title: Lexus LFA 2012
+permalink: /lexus/lfa/2012/
 ---

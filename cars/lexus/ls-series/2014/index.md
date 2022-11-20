@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Lexus LS-Series YEAR
-permalink: /lexus/ls-series/YEAR/
+title: Lexus LS-Series 2014
+permalink: /lexus/ls-series/2014/
 ---

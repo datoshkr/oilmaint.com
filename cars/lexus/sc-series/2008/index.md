@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Lexus SC-Series YEAR
-permalink: /lexus/sc-series/YEAR/
+title: Lexus SC-Series 2008
+permalink: /lexus/sc-series/2008/
 ---
