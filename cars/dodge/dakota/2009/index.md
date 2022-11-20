@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Dodge Dakota YEAR
-permalink: /dodge/dakota/YEAR/
+title: Dodge Dakota 2009
+permalink: /dodge/dakota/2009/
 ---

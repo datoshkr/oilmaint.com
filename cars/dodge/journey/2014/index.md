@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Dodge Journey YEAR
-permalink: /dodge/journey/YEAR/
+title: Dodge Journey 2014
+permalink: /dodge/journey/2014/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Dodge Challenger YEAR
-permalink: /dodge/challenger/YEAR/
+title: Dodge Challenger 2013
+permalink: /dodge/challenger/2013/
 ---

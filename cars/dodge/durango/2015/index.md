@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Dodge Durango YEAR
-permalink: /dodge/durango/YEAR/
+title: Dodge Durango 2015
+permalink: /dodge/durango/2015/
 ---

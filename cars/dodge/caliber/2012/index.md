@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Dodge Caliber YEAR
-permalink: /dodge/caliber/YEAR/
+title: Dodge Caliber 2012
+permalink: /dodge/caliber/2012/
 ---

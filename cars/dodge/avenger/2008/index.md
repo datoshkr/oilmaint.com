@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Dodge Avenger YEAR
-permalink: /dodge/avenger/YEAR/
+title: Dodge Avenger 2008
+permalink: /dodge/avenger/2008/
 ---

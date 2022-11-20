@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Dodge Dart YEAR
-permalink: /dodge/dart/YEAR/
+title: Dodge Dart 2013
+permalink: /dodge/dart/2013/
 ---
