@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Mercedes Benz CL-Class YEAR
-permalink: /mercedes-benz/cl-class/YEAR/
+title: Mercedes Benz CL-Class 2004
+permalink: /mercedes-benz/cl-class/2004/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Mercedes Benz GL-Class YEAR
-permalink: /mercedes-benz/gl-class/YEAR/
+title: Mercedes Benz GL-Class 2015
+permalink: /mercedes-benz/gl-class/2015/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Mercedes Benz SL-Class YEAR
-permalink: /mercedes-benz/sl-class/YEAR/
+title: Mercedes Benz SL-Class 2003
+permalink: /mercedes-benz/sl-class/2003/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Mercedes Benz S-Class YEAR
-permalink: /mercedes-benz/s-class/YEAR/
+title: Mercedes Benz S-Class 2002
+permalink: /mercedes-benz/s-class/2002/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Mercedes Benz G-Class YEAR
-permalink: /mercedes-benz/g-class/YEAR/
+title: Mercedes Benz G-Class 2008
+permalink: /mercedes-benz/g-class/2008/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Mercedes Benz R-Class YEAR
-permalink: /mercedes-benz/r-class/YEAR/
+title: Mercedes Benz R-Class 2010
+permalink: /mercedes-benz/r-class/2010/
 ---

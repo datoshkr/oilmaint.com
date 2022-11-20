@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Mercedes Benz A-Class YEAR
-permalink: /mercedes-benz/a-class/YEAR/
+title: Mercedes Benz A-Class 2008
+permalink: /mercedes-benz/a-class/2008/
 ---

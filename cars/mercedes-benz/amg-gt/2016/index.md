@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Mercedes Benz AMG-GT YEAR
-permalink: /mercedes-benz/amg-gt/YEAR/
+title: Mercedes Benz AMG-GT 2016
+permalink: /mercedes-benz/amg-gt/2016/
 ---

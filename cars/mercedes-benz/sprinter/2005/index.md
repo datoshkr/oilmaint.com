@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Mercedes Benz Sprinter YEAR
-permalink: /mercedes-benz/sprinter/YEAR/
+title: Mercedes Benz Sprinter 2005
+permalink: /mercedes-benz/sprinter/2005/
 ---

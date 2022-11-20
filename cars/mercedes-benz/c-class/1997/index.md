@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Mercedes Benz C-Class YEAR
-permalink: /mercedes-benz/c-class/YEAR/
+title: Mercedes Benz C-Class 1997
+permalink: /mercedes-benz/c-class/1997/
 ---

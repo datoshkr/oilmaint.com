@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Mercedes Benz GLK-Class YEAR
-permalink: /mercedes-benz/glk-class/YEAR/
+title: Mercedes Benz GLK-Class 2013
+permalink: /mercedes-benz/glk-class/2013/
 ---
