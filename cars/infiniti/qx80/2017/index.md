@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Infiniti QX80 YEAR
-permalink: /infiniti/qx80/YEAR/
+title: Infiniti QX80 2017
+permalink: /infiniti/qx80/2017/
 ---

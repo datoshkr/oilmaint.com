@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Infiniti M Series YEAR
-permalink: /infiniti/m-series/YEAR/
+title: Infiniti M Series 2009
+permalink: /infiniti/m-series/2009/
 ---

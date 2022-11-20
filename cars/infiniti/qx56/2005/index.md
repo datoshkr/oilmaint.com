@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Infiniti QX56 YEAR
-permalink: /infiniti/qx56/YEAR/
+title: Infiniti QX56 2005
+permalink: /infiniti/qx56/2005/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Infiniti Q50 YEAR
-permalink: /infiniti/q50/YEAR/
+title: Infiniti Q50 2017
+permalink: /infiniti/q50/2017/
 ---

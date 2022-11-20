@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Infiniti QX70 YEAR
-permalink: /infiniti/qx70/YEAR/
+title: Infiniti QX70 2014
+permalink: /infiniti/qx70/2014/
 ---

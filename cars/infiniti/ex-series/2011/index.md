@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Infiniti EX Series YEAR
-permalink: /infiniti/ex-series/YEAR/
+title: Infiniti EX Series 2011
+permalink: /infiniti/ex-series/2011/
 ---
