@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Jeep Nitro YEAR
-permalink: /jeep/nitro/YEAR/
+title: Jeep Nitro 2009
+permalink: /jeep/nitro/2009/
 ---

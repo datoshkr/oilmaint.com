@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Jeep Renegade YEAR
-permalink: /jeep/renegade/YEAR/
+title: Jeep Renegade 2016
+permalink: /jeep/renegade/2016/
 ---

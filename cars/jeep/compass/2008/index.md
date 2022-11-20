@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Jeep Compass YEAR
-permalink: /jeep/compass/YEAR/
+title: Jeep Compass 2008
+permalink: /jeep/compass/2008/
 ---

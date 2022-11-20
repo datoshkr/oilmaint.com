@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Jeep Patriot YEAR
-permalink: /jeep/patriot/YEAR/
+title: Jeep Patriot 2014
+permalink: /jeep/patriot/2014/
 ---

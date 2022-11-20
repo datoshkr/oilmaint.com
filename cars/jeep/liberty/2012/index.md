@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Jeep Liberty YEAR
-permalink: /jeep/liberty/YEAR/
+title: Jeep Liberty 2012
+permalink: /jeep/liberty/2012/
 ---

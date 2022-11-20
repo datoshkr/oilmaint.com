@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Jeep Cherokee YEAR
-permalink: /jeep/cherokee/YEAR/
+title: Jeep Cherokee 2016
+permalink: /jeep/cherokee/2016/
 ---

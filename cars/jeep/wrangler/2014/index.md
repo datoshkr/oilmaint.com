@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Jeep Wrangler YEAR
-permalink: /jeep/wrangler/YEAR/
+title: Jeep Wrangler 2014
+permalink: /jeep/wrangler/2014/
 ---

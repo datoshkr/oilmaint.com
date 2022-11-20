@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Jeep Commander YEAR
-permalink: /jeep/commander/YEAR/
+title: Jeep Commander 2008
+permalink: /jeep/commander/2008/
 ---
