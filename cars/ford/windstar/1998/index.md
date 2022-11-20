@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Ford Windstar YEAR
-permalink: /ford/windstar/YEAR/
+title: Ford Windstar 1998
+permalink: /ford/windstar/1998/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Ford Taurus YEAR
-permalink: /ford/taurus/YEAR/
+title: Ford Taurus 2017
+permalink: /ford/taurus/2017/
 ---

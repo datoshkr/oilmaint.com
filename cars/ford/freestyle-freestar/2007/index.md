@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Ford Freestyle/Freestar YEAR
-permalink: /ford/freestyle-freestar/YEAR/
+title: Ford Freestyle/Freestar 2007
+permalink: /ford/freestyle-freestar/2007/
 ---

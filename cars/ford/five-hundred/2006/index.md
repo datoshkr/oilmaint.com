@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Ford Five Hundred YEAR
-permalink: /ford/five-hundred/YEAR/
+title: Ford Five Hundred 2006
+permalink: /ford/five-hundred/2006/
 ---

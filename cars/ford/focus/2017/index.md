@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Ford Focus YEAR
-permalink: /ford/focus/YEAR/
+title: Ford Focus 2017
+permalink: /ford/focus/2017/
 ---

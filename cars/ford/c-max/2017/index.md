@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Ford C-MAX YEAR
-permalink: /ford/c-max/YEAR/
+title: Ford C-MAX 2017
+permalink: /ford/c-max/2017/
 ---

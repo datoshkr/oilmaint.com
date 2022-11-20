@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Ford Fiesta YEAR
-permalink: /ford/fiesta/YEAR/
+title: Ford Fiesta 2016
+permalink: /ford/fiesta/2016/
 ---

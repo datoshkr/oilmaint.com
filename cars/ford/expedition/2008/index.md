@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Ford Expedition YEAR
-permalink: /ford/expedition/YEAR/
+title: Ford Expedition 2008
+permalink: /ford/expedition/2008/
 ---

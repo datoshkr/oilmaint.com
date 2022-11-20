@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Ford Crown Victoria YEAR
-permalink: /ford/crown-victoria/YEAR/
+title: Ford Crown Victoria 2008
+permalink: /ford/crown-victoria/2008/
 ---

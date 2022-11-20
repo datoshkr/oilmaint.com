@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Ford Escape YEAR
-permalink: /ford/escape/YEAR/
+title: Ford Escape 2015
+permalink: /ford/escape/2015/
 ---

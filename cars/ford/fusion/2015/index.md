@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Ford Fusion YEAR
-permalink: /ford/fusion/YEAR/
+title: Ford Fusion 2015
+permalink: /ford/fusion/2015/
 ---

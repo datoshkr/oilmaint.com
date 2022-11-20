@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Ford Fusion Hybrid YEAR
-permalink: /ford/fusion-hybrid/YEAR/
+title: Ford Fusion Hybrid 2012
+permalink: /ford/fusion-hybrid/2012/
 ---

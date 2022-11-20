@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Ford Connect YEAR
-permalink: /ford/connect/YEAR/
+title: Ford Connect 2015
+permalink: /ford/connect/2015/
 ---

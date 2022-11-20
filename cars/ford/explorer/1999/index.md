@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Ford Explorer YEAR
-permalink: /ford/explorer/YEAR/
+title: Ford Explorer 1999
+permalink: /ford/explorer/1999/
 ---

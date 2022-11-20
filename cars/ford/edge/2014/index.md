@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Ford Edge YEAR
-permalink: /ford/edge/YEAR/
+title: Ford Edge 2014
+permalink: /ford/edge/2014/
 ---

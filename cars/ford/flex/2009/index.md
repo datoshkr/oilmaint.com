@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Ford Flex YEAR
-permalink: /ford/flex/YEAR/
+title: Ford Flex 2009
+permalink: /ford/flex/2009/
 ---
