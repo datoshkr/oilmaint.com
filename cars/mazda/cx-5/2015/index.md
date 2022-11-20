@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Mazda CX-5 YEAR
-permalink: /mazda/cx-5/YEAR/
+title: Mazda CX-5 2015
+permalink: /mazda/cx-5/2015/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Mazda MAZDA6 YEAR
-permalink: /mazda/mazda6/YEAR/
+title: Mazda MAZDA6 2014
+permalink: /mazda/mazda6/2014/
 ---

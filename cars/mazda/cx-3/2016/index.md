@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Mazda CX-3 YEAR
-permalink: /mazda/cx-3/YEAR/
+title: Mazda CX-3 2016
+permalink: /mazda/cx-3/2016/
 ---
