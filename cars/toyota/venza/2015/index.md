@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Toyota Venza YEAR
-permalink: /toyota/venza/YEAR/
+title: Toyota Venza 2015
+permalink: /toyota/venza/2015/
 ---

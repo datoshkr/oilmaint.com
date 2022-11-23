@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Toyota Rav4 YEAR
-permalink: /toyota/rav4/YEAR/
+title: Toyota Rav4 2008
+permalink: /toyota/rav4/2008/
 ---

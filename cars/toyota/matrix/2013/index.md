@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Toyota Matrix YEAR
-permalink: /toyota/matrix/YEAR/
+title: Toyota Matrix 2013
+permalink: /toyota/matrix/2013/
 ---

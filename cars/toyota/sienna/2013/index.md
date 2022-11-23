@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Toyota Sienna YEAR
-permalink: /toyota/sienna/YEAR/
+title: Toyota Sienna 2013
+permalink: /toyota/sienna/2013/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Toyota Tundra YEAR
-permalink: /toyota/tundra/YEAR/
+title: Toyota Tundra 2012
+permalink: /toyota/tundra/2012/
 ---

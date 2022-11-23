@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Toyota Highlander YEAR
-permalink: /toyota/highlander/YEAR/
+title: Toyota Highlander 2005
+permalink: /toyota/highlander/2005/
 ---

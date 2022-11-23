@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Toyota Yaris YEAR
-permalink: /toyota/yaris/YEAR/
+title: Toyota Yaris 2013
+permalink: /toyota/yaris/2013/
 ---

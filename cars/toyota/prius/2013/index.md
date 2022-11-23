@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Toyota Prius YEAR
-permalink: /toyota/prius/YEAR/
+title: Toyota Prius 2013
+permalink: /toyota/prius/2013/
 ---

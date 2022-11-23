@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Toyota Prius PHV YEAR
-permalink: /toyota/prius-phv/YEAR/
+title: Toyota Prius PHV 2013
+permalink: /toyota/prius-phv/2013/
 ---

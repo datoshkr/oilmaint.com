@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Toyota Corolla YEAR
-permalink: /toyota/corolla/YEAR/
+title: Toyota Corolla 2006
+permalink: /toyota/corolla/2006/
 ---

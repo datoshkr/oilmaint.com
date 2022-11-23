@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Toyota Tacoma YEAR
-permalink: /toyota/tacoma/YEAR/
+title: Toyota Tacoma 2008
+permalink: /toyota/tacoma/2008/
 ---
