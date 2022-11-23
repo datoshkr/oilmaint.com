@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Nissan Altima/Hybrid YEAR
-permalink: /nissan/Altima/HybridLINK/YEAR/
+title: Nissan Altima/Hybrid 2008
+permalink: /nissan/Altima/HybridLINK/2008/
 ---

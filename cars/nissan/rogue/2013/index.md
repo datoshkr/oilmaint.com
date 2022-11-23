@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Nissan Rogue YEAR
-permalink: /nissan/rogue/YEAR/
+title: Nissan Rogue 2013
+permalink: /nissan/rogue/2013/
 ---

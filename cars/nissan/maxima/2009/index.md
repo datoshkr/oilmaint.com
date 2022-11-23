@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Nissan Maxima YEAR
-permalink: /nissan/maxima/YEAR/
+title: Nissan Maxima 2009
+permalink: /nissan/maxima/2009/
 ---

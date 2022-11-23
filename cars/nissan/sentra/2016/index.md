@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Nissan Sentra YEAR
-permalink: /nissan/sentra/YEAR/
+title: Nissan Sentra 2016
+permalink: /nissan/sentra/2016/
 ---

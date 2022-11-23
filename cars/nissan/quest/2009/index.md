@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Nissan Quest YEAR
-permalink: /nissan/quest/YEAR/
+title: Nissan Quest 2009
+permalink: /nissan/quest/2009/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Nissan Pathfinder YEAR
-permalink: /nissan/pathfinder/YEAR/
+title: Nissan Pathfinder 2008
+permalink: /nissan/pathfinder/2008/
 ---

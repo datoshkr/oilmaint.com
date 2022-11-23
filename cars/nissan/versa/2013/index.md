@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Nissan Versa YEAR
-permalink: /nissan/versa/YEAR/
+title: Nissan Versa 2013
+permalink: /nissan/versa/2013/
 ---

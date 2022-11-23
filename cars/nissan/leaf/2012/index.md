@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Nissan Leaf YEAR
-permalink: /nissan/leaf/YEAR/
+title: Nissan Leaf 2012
+permalink: /nissan/leaf/2012/
 ---

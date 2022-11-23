@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Nissan GT-R YEAR
-permalink: /nissan/gt-r/YEAR/
+title: Nissan GT-R 2009
+permalink: /nissan/gt-r/2009/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Nissan Titan YEAR
-permalink: /nissan/titan/YEAR/
+title: Nissan Titan 2008
+permalink: /nissan/titan/2008/
 ---

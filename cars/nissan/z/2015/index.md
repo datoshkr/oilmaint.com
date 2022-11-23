@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Nissan Z YEAR
-permalink: /nissan/z/YEAR/
+title: Nissan Z 2015
+permalink: /nissan/z/2015/
 ---

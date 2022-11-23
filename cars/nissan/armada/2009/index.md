@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Nissan Armada YEAR
-permalink: /nissan/armada/YEAR/
+title: Nissan Armada 2009
+permalink: /nissan/armada/2009/
 ---

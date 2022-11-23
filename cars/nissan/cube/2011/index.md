@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Nissan Cube YEAR
-permalink: /nissan/cube/YEAR/
+title: Nissan Cube 2011
+permalink: /nissan/cube/2011/
 ---
