@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Mitsubishi iMiEV YEAR
-permalink: /mitsubishi/imiev/YEAR/
+title: Mitsubishi iMiEV 2016
+permalink: /mitsubishi/imiev/2016/
 ---

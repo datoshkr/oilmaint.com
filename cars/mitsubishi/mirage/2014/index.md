@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Mitsubishi Mirage YEAR
-permalink: /mitsubishi/mirage/YEAR/
+title: Mitsubishi Mirage 2014
+permalink: /mitsubishi/mirage/2014/
 ---

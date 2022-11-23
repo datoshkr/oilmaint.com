@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Mitsubishi Outlander YEAR
-permalink: /mitsubishi/outlander/YEAR/
+title: Mitsubishi Outlander 2014
+permalink: /mitsubishi/outlander/2014/
 ---

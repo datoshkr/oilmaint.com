@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Mitsubishi MODEL YEAR
-permalink: /mitsubishi/rvr/YEAR/
+title: Mitsubishi MODEL 2014
+permalink: /mitsubishi/rvr/2014/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Mitsubishi Lancer YEAR
-permalink: /mitsubishi/lancer/YEAR/
+title: Mitsubishi Lancer 2012
+permalink: /mitsubishi/lancer/2012/
 ---
