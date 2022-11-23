@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Smart fortwo YEAR
-permalink: /smart/fortwo/YEAR/
+title: Smart fortwo 2005
+permalink: /smart/fortwo/2005/
 ---
