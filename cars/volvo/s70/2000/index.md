@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Volvo S70 YEAR
-permalink: /volvo/s70/YEAR/
+title: Volvo S70 2000
+permalink: /volvo/s70/2000/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Volvo V50 YEAR
-permalink: /volvo/v50/YEAR/
+title: Volvo V50 2011
+permalink: /volvo/v50/2011/
 ---

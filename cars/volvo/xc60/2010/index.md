@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Volvo XC60 YEAR
-permalink: /volvo/xc60/YEAR/
+title: Volvo XC60 2010
+permalink: /volvo/xc60/2010/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Volvo XC90 YEAR
-permalink: /volvo/xc90/YEAR/
+title: Volvo XC90 2015
+permalink: /volvo/xc90/2015/
 ---

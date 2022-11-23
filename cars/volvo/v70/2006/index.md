@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Volvo V70 YEAR
-permalink: /volvo/v70/YEAR/
+title: Volvo V70 2006
+permalink: /volvo/v70/2006/
 ---

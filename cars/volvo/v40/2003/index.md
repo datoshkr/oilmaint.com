@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Volvo V40 YEAR
-permalink: /volvo/v40/YEAR/
+title: Volvo V40 2003
+permalink: /volvo/v40/2003/
 ---
