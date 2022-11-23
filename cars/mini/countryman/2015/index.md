@@ -1,5 +1,5 @@
 ---
 layout: default
-title: MINI Countryman YEAR
-permalink: /mini/countryman/YEAR/
+title: MINI Countryman 2015
+permalink: /mini/countryman/2015/
 ---

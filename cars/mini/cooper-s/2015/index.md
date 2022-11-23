@@ -1,5 +1,5 @@
 ---
 layout: default
-title: MINI Cooper S YEAR
-permalink: /mini/cooper-s/YEAR/
+title: MINI Cooper S 2015
+permalink: /mini/cooper-s/2015/
 ---

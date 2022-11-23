@@ -1,5 +1,5 @@
 ---
 layout: default
-title: MINI Clubman YEAR
-permalink: /mini/clubman/YEAR/
+title: MINI Clubman 2016
+permalink: /mini/clubman/2016/
 ---

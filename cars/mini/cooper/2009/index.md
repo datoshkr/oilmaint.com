@@ -1,5 +1,5 @@
 ---
 layout: default
-title: MINI Cooper YEAR
-permalink: /mini/cooper/YEAR/
+title: MINI Cooper 2009
+permalink: /mini/cooper/2009/
 ---

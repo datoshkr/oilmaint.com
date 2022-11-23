@@ -1,5 +1,5 @@
 ---
 layout: default
-title: MINI MODEL YEAR
-permalink: /mini/paceman/YEAR/
+title: MINI MODEL 2015
+permalink: /mini/paceman/2015/
 ---
