@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Subaru WRX YEAR
-permalink: /subaru/wrx/YEAR/
+title: Subaru WRX 2014
+permalink: /subaru/wrx/2014/
 ---

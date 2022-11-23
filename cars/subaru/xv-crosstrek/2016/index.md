@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Subaru XV Crosstrek YEAR
-permalink: /subaru/xv-crosstrek/YEAR/
+title: Subaru XV Crosstrek 2016
+permalink: /subaru/xv-crosstrek/2016/
 ---

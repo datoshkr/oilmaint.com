@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Subaru Forester YEAR
-permalink: /subaru/forester/YEAR/
+title: Subaru Forester 2014
+permalink: /subaru/forester/2014/
 ---

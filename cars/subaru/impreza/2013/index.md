@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Subaru Impreza YEAR
-permalink: /subaru/impreza/YEAR/
+title: Subaru Impreza 2013
+permalink: /subaru/impreza/2013/
 ---
