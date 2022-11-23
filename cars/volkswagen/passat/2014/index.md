@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Volkswagen Passat YEAR
-permalink: /volkswagen/passat/YEAR/
+title: Volkswagen Passat 2014
+permalink: /volkswagen/passat/2014/
 ---

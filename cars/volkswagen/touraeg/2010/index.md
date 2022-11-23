@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Volkswagen Touraeg YEAR
-permalink: /volkswagen/touraeg/YEAR/
+title: Volkswagen Touraeg 2010
+permalink: /volkswagen/touraeg/2010/
 ---

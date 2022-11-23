@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Volkswagen EOS YEAR
-permalink: /volkswagen/eos/YEAR/
+title: Volkswagen EOS 2009
+permalink: /volkswagen/eos/2009/
 ---

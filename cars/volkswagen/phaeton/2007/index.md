@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Volkswagen Phaeton YEAR
-permalink: /volkswagen/phaeton/YEAR/
+title: Volkswagen Phaeton 2007
+permalink: /volkswagen/phaeton/2007/
 ---

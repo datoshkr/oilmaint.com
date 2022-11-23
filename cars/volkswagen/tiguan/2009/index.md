@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Volkswagen Tiguan YEAR
-permalink: /volkswagen/tiguan/YEAR/
+title: Volkswagen Tiguan 2009
+permalink: /volkswagen/tiguan/2009/
 ---

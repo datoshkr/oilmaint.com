@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Volkswagen Beetle YEAR
-permalink: /volkswagen/beetle/YEAR/
+title: Volkswagen Beetle 1999
+permalink: /volkswagen/beetle/1999/
 ---

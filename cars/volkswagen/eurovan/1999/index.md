@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Volkswagen Eurovan YEAR
-permalink: /volkswagen/eurovan/YEAR/
+title: Volkswagen Eurovan 1999
+permalink: /volkswagen/eurovan/1999/
 ---

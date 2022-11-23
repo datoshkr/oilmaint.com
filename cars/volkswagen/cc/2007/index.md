@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Volkswagen CC YEAR
-permalink: /volkswagen/cc/YEAR/
+title: Volkswagen CC 2007
+permalink: /volkswagen/cc/2007/
 ---

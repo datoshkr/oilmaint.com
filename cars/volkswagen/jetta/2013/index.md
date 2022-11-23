@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Volkswagen Jetta YEAR
-permalink: /volkswagen/jetta/YEAR/
+title: Volkswagen Jetta 2013
+permalink: /volkswagen/jetta/2013/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Volkswagen Cabrio YEAR
-permalink: /volkswagen/cabrio/YEAR/
+title: Volkswagen Cabrio 2001
+permalink: /volkswagen/cabrio/2001/
 ---

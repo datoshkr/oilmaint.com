@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Volkswagen Rabbit YEAR
-permalink: /volkswagen/rabbit/YEAR/
+title: Volkswagen Rabbit 2009
+permalink: /volkswagen/rabbit/2009/
 ---
