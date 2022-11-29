@@ -8,5 +8,5 @@ permalink: /audi/a3-s3/2016/
 3. Select SERVICE & CONTROL.
 4. Select SERVICE INTERVALS.
 5. Select RESET OIL CHANGE INTERVAL.
-6. Turn off the igntion.
+6. Turn off the ignition.
 7. Start the engine and verify the indicator has been reset.

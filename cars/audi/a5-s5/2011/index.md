@@ -8,5 +8,5 @@ permalink: /audi/a5-s5/2011/
 3. From the CAR menu select CAR SYSTEMS.
 4. From the CAR SYSTEMS menu select SERVICE INTERVALS.
 5. Select RESET OIL CHANGE INTERVAL and confirm.
-6. Turn off the igntion.
+6. Turn off the ignition.
 7. Start the engine and verify the indicator has been reset.
