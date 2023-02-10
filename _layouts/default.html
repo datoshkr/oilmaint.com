@@ -20,21 +20,5 @@
     <div class="section">
       {{ content }}
     </div>
-    <script>
-      // Initialize the agent at application startup.
-      const fpPromise = import('https://oilmaint.com/5whgbOh6gfhYAqWF/CdcWsl04iDrvvoZs?apiKey=K2zAzjbQEp0LVGPz8WEm')
-        .then(FingerprintJS => FingerprintJS.load({
-          endpoint: "https://oilmaint.com/5whgbOh6gfhYAqWF/Xah1R7LSyxn4AHtc"
-        }))
-
-      // Get the visitor identifier when you need it.
-      fpPromise
-        .then(fp => fp.get())
-        .then(result => {
-          // This is the visitor identifier:
-          const visitorId = result.visitorId
-          console.log(visitorId)
-        })
-    </script>
   </body>
 </html>
