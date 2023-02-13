@@ -21,20 +21,15 @@
       {{ content }}
     </div>
 <script>
-    // Initialize the agent at application startup.
-    const fpPromise = import('https://oilmaint.com/5whgbOh6gfhYAqWF/CdcWsl04iDrvvoZs?apiKey=TxyQl0iVZnjKilvm8eJq')
-      .then(FingerprintJS => FingerprintJS.load({
-        endpoint: "https://oilmaint.com/5whgbOh6gfhYAqWF/Xah1R7LSyxn4AHtc"
-      }))
+  // Initialize the agent once at web application startup.
+  // Alternatively initialize as early on the page as possible.
+  const fpPromise = import('https://fpjscdn.net/v3/lE3JOP8n58UsjoOkEKgE')
+    .then(FingerprintJS => FingerprintJS.load())
 
-    // Get the visitor identifier when you need it.
-    fpPromise
-      .then(fp => fp.get())
-      .then(result => {
-        // This is the visitor identifier:
-        const visitorId = result.visitorId
-        console.log(visitorId)
-      })
-  </script>
+  // Analyze the visitor when necessary.
+  fpPromise
+    .then(fp => fp.get())
+    .then(result => console.log(result.requestId, result.visitorId))
+</script>
   </body>
 </html>
