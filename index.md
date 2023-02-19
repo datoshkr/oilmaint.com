@@ -3,6 +3,8 @@ layout: default
 title: Home
 permalink: /
 ---
+[Home](/)
+
 **Select manufacturer**
 
 - [Audi](/audi/)
