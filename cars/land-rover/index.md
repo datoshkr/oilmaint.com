@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: car
 title: Land Rover
 permalink: /land-rover/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: car
 title: Hyundai
 permalink: /hyundai/
 ---

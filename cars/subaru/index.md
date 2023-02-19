@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: car
 title: Subaru
 permalink: /subaru/
 ---
