@@ -3,6 +3,8 @@ layout: default
 title: Chevrolet HHR
 permalink: /chevrolet/hhr/
 ---
+[*Home*](/) > [*Chevrolet*](/chevrolet/) > [*HHR*](/chevrolet/hhr/)
+
 **Select year**
 
 - [2006](/chevrolet/hhr/2006/)

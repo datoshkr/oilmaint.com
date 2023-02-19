@@ -3,6 +3,8 @@ layout: default
 title: Chevrolet Equinox
 permalink: /chevrolet/equinox/
 ---
+[*Home*](/) > [*Chevrolet*](/chevrolet/) > [*Equinox*](/chevrolet/equinox/)
+
 **Select year**
 
 - [2005](/chevrolet/equinox/2005/)

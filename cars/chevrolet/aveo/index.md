@@ -3,6 +3,8 @@ layout: default
 title: Chevrolet Aveo
 permalink: /chevrolet/aveo/
 ---
+[*Home*](/) > [*Chevrolet*](/chevrolet/) > [*Aveo*](/chevrolet/aveo/)
+
 **Select year**
 
 - [2009](/chevrolet/aveo/2009/)

@@ -3,6 +3,8 @@ layout: default
 title: Chevrolet Colorado
 permalink: /chevrolet/colorado/
 ---
+[*Home*](/) > [*Chevrolet*](/chevrolet/) > [*Colorado*](/chevrolet/colorado/)
+
 **Select year**
 
 - [2004](/chevrolet/colorado/2004/)

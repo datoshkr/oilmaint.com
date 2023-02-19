@@ -3,6 +3,8 @@ layout: default
 title: Chevrolet Sonic
 permalink: /chevrolet/sonic/
 ---
+[*Home*](/) > [*Chevrolet*](/chevrolet/) > [*Sonic*](/chevrolet/sonic/)
+
 **Select year**
 
 - [2012](/chevrolet/sonic/2012/)

@@ -3,6 +3,8 @@ layout: default
 title: Chevrolet Tahoe
 permalink: /chevrolet/tahoe/
 ---
+[*Home*](/) > [*Chevrolet*](/chevrolet/) > [*Tahoe*](/chevrolet/tahoe/)
+
 **Select year**
 
 - [2000](/chevrolet/tahoe/2000/)

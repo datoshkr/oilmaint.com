@@ -3,6 +3,8 @@ layout: default
 title: Chevrolet Venture
 permalink: /chevrolet/venture/
 ---
+[*Home*](/) > [*Chevrolet*](/chevrolet/) > [*Venture*](/chevrolet/venture/)
+
 **Select year**
 
 - [2000](/chevrolet/venture/2000/)
