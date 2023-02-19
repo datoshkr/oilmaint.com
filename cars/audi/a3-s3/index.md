@@ -3,6 +3,8 @@ layout: default
 title: Audi A3/S3
 permalink: /audi/a3-s3/
 ---
+[*Home*](/) > [*Audi*](/audi/) > [*A3/S3*](/audi/a3-s3/)
+
 **Select year**
 
 - [2004](/audi/a3-s3/2004/)
