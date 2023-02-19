@@ -3,6 +3,8 @@ layout: default
 title: BMW 7 Series
 permalink: /bmw/7-series/
 ---
+[*Home*](/) > [*BMW*](/bmw/) > [*7 Series*](/bmw/7-series/)
+
 **Select year**
 
 - [1988](/bmw/7-series/1988/)

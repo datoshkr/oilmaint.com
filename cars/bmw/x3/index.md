@@ -3,6 +3,8 @@ layout: default
 title: BMW X3
 permalink: /bmw/x3/
 ---
+[*Home*](/) > [*BMW*](/bmw/) > [*X3*](/bmw/x3/)
+
 **Select year**
 
 - [2006](/bmw/x3/2006/)
