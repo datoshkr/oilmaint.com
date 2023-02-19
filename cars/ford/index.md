@@ -3,7 +3,7 @@ layout: default
 title: Ford
 permalink: /ford/
 ---
-[*Home*] > [*Ford*](/ford/)
+[*Home*](/) > [*Ford*](/ford/)
 
 **Select car make**
 
