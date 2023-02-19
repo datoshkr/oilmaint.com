@@ -3,7 +3,7 @@ layout: default
 title: Smart
 permalink: /smart/
 ---
-[*Home*](/) >
+[*Home*](/) > [*Smart*](/smart/)
 
 **Select car make**
 

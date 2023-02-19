@@ -3,7 +3,7 @@ layout: default
 title: Subaru
 permalink: /subaru/
 ---
-[*Home*](/) >
+[*Home*](/) > [*Subaru*](/subaru/)
 
 **Select car make**
 

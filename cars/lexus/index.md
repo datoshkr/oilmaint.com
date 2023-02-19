@@ -3,7 +3,7 @@ layout: default
 title: Lexus
 permalink: /lexus/
 ---
-[*Home*](/) >
+[*Home*](/) > [*Lexus*](/lexus/)
 
 **Select car make**
 

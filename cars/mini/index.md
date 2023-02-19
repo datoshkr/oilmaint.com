@@ -3,7 +3,7 @@ layout: default
 title: MINI
 permalink: /mini/
 ---
-[*Home*](/) >
+[*Home*](/) > [*MINI*](/mini/)
 
 **Select car make**
 

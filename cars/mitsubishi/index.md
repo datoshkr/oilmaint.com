@@ -3,7 +3,7 @@ layout: default
 title: Mitsubishi
 permalink: /mitsubishi/
 ---
-[*Home*](/) >
+[*Home*](/) > [*Mitsubishi*](/mitsubishi/)
 
 **Select car make**
 

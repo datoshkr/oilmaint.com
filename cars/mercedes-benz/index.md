@@ -3,7 +3,7 @@ layout: default
 title: Mercedes Benz
 permalink: /mercedes-benz/
 ---
-[*Home*](/) >
+[*Home*](/) > [*Mercedes Benz*](/mercedes-benz/)
 
 **Select car make**
 
