@@ -1,5 +1,5 @@
 ---
-layout: car
+layout: default
 title: Volvo
 permalink: /volvo/
 ---

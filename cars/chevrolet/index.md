@@ -1,5 +1,5 @@
 ---
-layout: car
+layout: default
 title: Chevrolet
 permalink: /chevrolet/
 ---

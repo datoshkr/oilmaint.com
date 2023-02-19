@@ -1,5 +1,5 @@
 ---
-layout: year
+layout: default
 title: Audi A3/S3
 permalink: /audi/a3-s3/
 ---
