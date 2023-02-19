@@ -3,7 +3,7 @@ layout: default
 title: Home
 permalink: /
 ---
-[Home](/)
+[*Home*](/)
 
 **Select manufacturer**
 
