@@ -3,6 +3,8 @@ layout: default
 title: Infiniti M Series
 permalink: /infiniti/m-series/
 ---
+[*Home*](/) > [*Infiniti*](/infiniti/) > [*M Series*](/infiniti/m-series/)
+
 **Select year**
 
 - [2006](/infiniti/m-series/2006/)

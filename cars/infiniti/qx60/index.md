@@ -3,6 +3,8 @@ layout: default
 title: Infiniti QX60
 permalink: /infiniti/qx60/
 ---
+[*Home*](/) > [*Infiniti*](/infiniti/) > [*QX60*](/infiniti/qx60/)
+
 **Select year**
 
 - [2014](/infiniti/qx60/2014/)

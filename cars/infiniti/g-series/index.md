@@ -3,6 +3,8 @@ layout: default
 title: Infiniti G Series
 permalink: /infiniti/g-series/
 ---
+[*Home*](/) > [*Infiniti*](/infiniti/) > [*G Series*](/infiniti/g-series/)
+
 **Select year**
 
 - [2005](/infiniti/g-series/2005/)
