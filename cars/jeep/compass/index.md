@@ -3,6 +3,8 @@ layout: default
 title: Jeep Compass
 permalink: /jeep/compass/
 ---
+[*Home*](/) > [*Jeep*](/jeep/) > [*Compass*](/jeep/compass/)
+
 **Select year**
 
 - [2008](/jeep/compass/2008/)

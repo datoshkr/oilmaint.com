@@ -3,6 +3,8 @@ layout: default
 title: Jeep Renegade
 permalink: /jeep/renegade/
 ---
+[*Home*](/) > [*Jeep*](/jeep/) > [*Renegade*](/jeep/renegade/)
+
 **Select year**
 
 - [2015](/jeep/renegade/2015/)

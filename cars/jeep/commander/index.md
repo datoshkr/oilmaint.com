@@ -3,6 +3,8 @@ layout: default
 title: Jeep Commander
 permalink: /jeep/commander/
 ---
+[*Home*](/) > [*Jeep*](/jeep/) > [*Commander*](/jeep/commander/)
+
 **Select year**
 
 - [2008](/jeep/commander/2008/)

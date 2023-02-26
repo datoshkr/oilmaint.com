@@ -3,6 +3,8 @@ layout: default
 title: Jeep Patriot
 permalink: /jeep/patriot/
 ---
+[*Home*](/) > [*Jeep*](/jeep/) > [*Patriot*](/jeep/patriot/)
+
 **Select year**
 
 - [2007](/jeep/patriot/2007/)
