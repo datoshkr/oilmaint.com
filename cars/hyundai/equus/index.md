@@ -3,6 +3,8 @@ layout: default
 title: Hyundai Equus
 permalink: /hyundai/equus/
 ---
+[*Home*](/) > [*Hyundai*](/hyundai/) > [*Equus*](/hyundai/equus/)
+
 **Select year**
 
 - [2014](/hyundai/equus/2014/)
