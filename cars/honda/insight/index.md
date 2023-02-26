@@ -3,6 +3,8 @@ layout: default
 title: Honda Insight
 permalink: /honda/insight/
 ---
+[*Home*](/) > [*Honda*](/honda/) > [*Insight*](/honda/insight/)
+
 **Select year**
 
 - [2000](/honda/insight/2000/)

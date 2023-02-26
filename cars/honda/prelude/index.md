@@ -3,6 +3,8 @@ layout: default
 title: Honda Prelude
 permalink: /honda/prelude/
 ---
+[*Home*](/) > [*Honda*](/honda/) > [*Prelude*](/honda/prelude/)
+
 **Select year**
 
 - [1982](/honda/prelude/1982/)

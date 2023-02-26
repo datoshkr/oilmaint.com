@@ -3,6 +3,8 @@ layout: default
 title: Ford Taurus
 permalink: /ford/taurus/
 ---
+[*Home*](/) > [*Ford*](/ford/) > [*Taurus*](/ford/taurus/)
+
 **Select year**
 
 - [2008](/ford/taurus/2008/)

@@ -3,6 +3,8 @@ layout: default
 title: Honda Ridgeline
 permalink: /honda/ridgeline/
 ---
+[*Home*](/) > [*Honda*](/honda/) > [*Ridgeline*](/honda/ridgeline/)
+
 **Select year**
 
 - [2006](/honda/ridgeline/2006/)

@@ -3,6 +3,8 @@ layout: default
 title: Dodge Avenger
 permalink: /dodge/avenger/
 ---
+[*Home*](/) > [*Dodge*](/dodge/) > [*Avenger*](/dodge/avenger/)
+
 **Select year**
 
 - [2008](/dodge/avenger/2008/)

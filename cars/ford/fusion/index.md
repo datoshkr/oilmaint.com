@@ -3,6 +3,8 @@ layout: default
 title: Ford Fusion
 permalink: /ford/fusion/
 ---
+[*Home*](/) > [*Ford*](/ford/) > [*Fusion*](/ford/fusion/)
+
 **Select year**
 
 - [2010](/ford/fusion/2010/)

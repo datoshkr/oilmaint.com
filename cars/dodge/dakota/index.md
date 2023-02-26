@@ -3,6 +3,8 @@ layout: default
 title: Dodge Dakota
 permalink: /dodge/dakota/
 ---
+[*Home*](/) > [*Dodge*](/dodge/) > [*Dakota*](/dodge/dakota/)
+
 **Select year**
 
 - [2008](/dodge/dakota/2008/)
