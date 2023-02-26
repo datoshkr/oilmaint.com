@@ -3,6 +3,8 @@ layout: default
 title: Kia Rio
 permalink: /kia/rio/
 ---
+[*Home*](/) > [*Kia*](/kia/) > [*Rio*](/kia/rio/)
+
 **Select year**
 
 - [2015](/kia/rio/2015/)

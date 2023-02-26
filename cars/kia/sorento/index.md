@@ -3,6 +3,8 @@ layout: default
 title: Kia Sorento
 permalink: /kia/sorento/
 ---
+[*Home*](/) > [*Kia*](/kia/) > [*Sorento*](/kia/sorento/)
+
 **Select year**
 
 - [2015](/kia/sorento/2015/)
