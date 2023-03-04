@@ -3,6 +3,8 @@ layout: default
 title: Toyota Highlander
 permalink: /toyota/highlander/
 ---
+[*Home*](/) > [*Toyota*](/toyota/) > [*Highlander*](/toyota/highlander/)
+
 **Select year**
 
 - [2005](/toyota/highlander/2005/)

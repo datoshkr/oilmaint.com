@@ -3,6 +3,8 @@ layout: default
 title: Toyota Prius V
 permalink: /toyota/prius-v/
 ---
+[*Home*](/) > [*Toyota*](/toyota/) > [*Prius V*](/toyota/prius-v/)
+
 **Select year**
 
 - [2012](/toyota/prius-v/2012/)

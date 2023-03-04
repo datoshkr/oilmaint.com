@@ -3,6 +3,8 @@ layout: default
 title: Toyota Prius
 permalink: /toyota/prius/
 ---
+[*Home*](/) > [*Toyota*](/toyota/) > [*Prius*](/toyota/prius/)
+
 **Select year**
 
 - [2009](/toyota/prius/2009/)

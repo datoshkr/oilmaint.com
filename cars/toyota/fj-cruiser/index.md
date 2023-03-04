@@ -3,6 +3,8 @@ layout: default
 title: Toyota FJ Cruiser
 permalink: /toyota/fj-cruiser/
 ---
+[*Home*](/) > [*Toyota*](/toyota/) > [*FJ Cruiser*](/toyota/fj-cruiser/)
+
 **Select year**
 
 - [2007](/toyota/fj-cruiser/2007/)
