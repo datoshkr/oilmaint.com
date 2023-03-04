@@ -3,6 +3,8 @@ layout: default
 title: Mercedes Benz GLA-Class
 permalink: /mercedes-benz/gla-class/
 ---
+[*Home*](/) > [*Mercedes Benz*](/mercedes-benz/) > [*GLA-Class*](/mercedes-benz/gla-class/)
+
 **Select year**
 
 - [2014](/mercedes-benz/gla-class/2014/)

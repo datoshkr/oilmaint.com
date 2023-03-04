@@ -3,6 +3,8 @@ layout: default
 title: Mercedes Benz SLS-Class
 permalink: /mercedes-benz/sls-class/
 ---
+[*Home*](/) > [*Mercedes Benz*](/mercedes-benz/) > [*SLS-Class*](/mercedes-benz/sls-class/)
+
 **Select year**
 
 - [2010](/mercedes-benz/sls-class/2010/)

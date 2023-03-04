@@ -3,6 +3,8 @@ layout: default
 title: Mercedes Benz R-Class
 permalink: /mercedes-benz/r-class/
 ---
+[*Home*](/) > [*Mercedes Benz*](/mercedes-benz/) > [*R-Class*](/mercedes-benz/r-class/)
+
 **Select year**
 
 - [2006](/mercedes-benz/r-class/2006/)

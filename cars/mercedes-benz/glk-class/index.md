@@ -3,6 +3,8 @@ layout: default
 title: Mercedes Benz GLK-Class
 permalink: /mercedes-benz/glk-class/
 ---
+[*Home*](/) > [*Mercedes Benz*](/mercedes-benz/) > [*GLK-Class*](/mercedes-benz/glk-class/)
+
 **Select year**
 
 - [2009](/mercedes-benz/glk-class/2009/)

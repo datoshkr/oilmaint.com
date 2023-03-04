@@ -3,6 +3,8 @@ layout: default
 title: Mercedes Benz C-Class
 permalink: /mercedes-benz/c-class/
 ---
+[*Home*](/) > [*Mercedes Benz*](/mercedes-benz/) > [*C-Class*](/mercedes-benz/c-class/)
+
 **Select year**
 
 - [1997](/mercedes-benz/c-class/1997/)
