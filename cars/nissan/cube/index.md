@@ -3,6 +3,8 @@ layout: default
 title: Nissan Cube
 permalink: /nissan/cube/
 ---
+[*Home*](/) > [*Nissan*](/nissan/) > [*Cube*](/nissan/cube/)
+
 **Select year**
 
 - [2009](/nissan/cube/2009/)

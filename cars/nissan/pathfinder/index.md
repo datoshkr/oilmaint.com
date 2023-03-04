@@ -3,6 +3,8 @@ layout: default
 title: Nissan Pathfinder
 permalink: /nissan/pathfinder/
 ---
+[*Home*](/) > [*Nissan*](/nissan/) > [*Pathfinder*](/nissan/pathfinder/)
+
 **Select year**
 
 - [2006](/nissan/pathfinder/2006/)

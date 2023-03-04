@@ -3,6 +3,8 @@ layout: default
 title: Nissan Leaf
 permalink: /nissan/leaf/
 ---
+[*Home*](/) > [*Nissan*](/nissan/) > [*Leaf*](/nissan/leaf/)
+
 **Select year**
 
 - [2012](/nissan/leaf/2012/)
