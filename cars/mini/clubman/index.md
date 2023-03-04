@@ -3,6 +3,8 @@ layout: default
 title: MINI Clubman
 permalink: /mini/clubman/
 ---
+[*Home*](/) > [*MINI*](/mini/) > [*Clubman*](/mini/clubman/)
+
 **Select year**
 
 - [2008](/mini/clubman/2008/)

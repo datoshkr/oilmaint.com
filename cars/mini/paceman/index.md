@@ -3,6 +3,8 @@ layout: default
 title: MINI Paceman
 permalink: /mini/paceman/
 ---
+[*Home*](/) > [*MINI*](/mini/) > [*Paceman*](/mini/paceman/)
+
 **Select year**
 
 - [2013](/mini/paceman/2013/)

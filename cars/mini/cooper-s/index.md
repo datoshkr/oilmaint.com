@@ -3,6 +3,8 @@ layout: default
 title: MINI Cooper S
 permalink: /mini/cooper-s/
 ---
+[*Home*](/) > [*MINI*](/mini/) > [*Cooper S*](/mini/cooper-s/)
+
 **Select year**
 
 - [2006](/mini/cooper-s/2006/)
