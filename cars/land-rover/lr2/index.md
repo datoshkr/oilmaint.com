@@ -3,6 +3,8 @@ layout: default
 title: Land Rover LR2
 permalink: /land-rover/lr2/
 ---
+[*Home*](/) > [*Land Rover*](/land-rover/) > [*LR2*](/land-rover/lr2/)
+
 **Select year**
 
 - [2006](/land-rover/lr2/2006/)
