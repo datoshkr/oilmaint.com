@@ -3,6 +3,8 @@ layout: default
 title: Lexus GX-Series
 permalink: /lexus/gx-series/
 ---
+[*Home*](/) > [*Lexus*](/lexus/) > [*GX-Series*](/lexus/gx-series/)
+
 **Select year**
 
 - [2004](/lexus/gx-series/2004/)

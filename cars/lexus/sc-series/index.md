@@ -3,6 +3,8 @@ layout: default
 title: Lexus SC-Series
 permalink: /lexus/sc-series/
 ---
+[*Home*](/) > [*Lexus*](/lexus/) > [*SC-Series*](/lexus/sc-series/)
+
 **Select year**
 
 - [2006](/lexus/sc-series/2006/)
