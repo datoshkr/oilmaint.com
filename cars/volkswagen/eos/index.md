@@ -3,6 +3,8 @@ layout: default
 title: Volkswagen EOS
 permalink: /volkswagen/eos/
 ---
+[*Home*](/) > [*Volkswagen*](/volkswagen/) > [*EOS*](/volkswagen/eos/)
+
 **Select year**
 
 - [2006](/volkswagen/eos/2006/)

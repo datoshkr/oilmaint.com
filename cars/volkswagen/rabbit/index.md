@@ -3,6 +3,8 @@ layout: default
 title: Volkswagen Rabbit
 permalink: /volkswagen/rabbit/
 ---
+[*Home*](/) > [*Volkswagen*](/volkswagen/) > [*Rabbit*](/volkswagen/rabbit/)
+
 **Select year**
 
 - [2006](/volkswagen/rabbit/2006/)

@@ -3,6 +3,8 @@ layout: default
 title: Volkswagen Passat
 permalink: /volkswagen/passat/
 ---
+[*Home*](/) > [*Volkswagen*](/volkswagen/) > [*Passat*](/volkswagen/passat/)
+
 **Select year**
 
 - [1997](/volkswagen/passat/1997/)

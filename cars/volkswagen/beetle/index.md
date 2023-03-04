@@ -3,6 +3,8 @@ layout: default
 title: Volkswagen Beetle
 permalink: /volkswagen/beetle/
 ---
+[*Home*](/) > [*Volkswagen*](/volkswagen/) > [*Beetle*](/volkswagen/beetle/)
+
 **Select year**
 
 - [1999](/volkswagen/beetle/1999/)

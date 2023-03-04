@@ -3,6 +3,8 @@ layout: default
 title: Volkswagen Cabrio
 permalink: /volkswagen/cabrio/
 ---
+[*Home*](/) > [*Volkswagen*](/volkswagen/) > [*Cabrio*](/volkswagen/cabrio/)
+
 **Select year**
 
 - [1995](/volkswagen/cabrio/1995/)
