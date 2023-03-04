@@ -3,6 +3,8 @@ layout: default
 title: Mazda MAZDA6
 permalink: /mazda/mazda6/
 ---
+[*Home*](/) > [*Mazda*](/mazda/) > [*MAZDA6*](/mazda/mazda6/)
+
 **Select year**
 
 - [2013](/mazda/mazda6/2013/)
