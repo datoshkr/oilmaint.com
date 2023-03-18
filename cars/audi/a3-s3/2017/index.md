@@ -3,6 +3,8 @@ layout: default
 title: Audi A3/S3 2017
 permalink: /audi/a3-s3/2017/
 ---
+[*Home*](/) > [*Audi*](/audi/) > [*A3/S3*](/audi/a3-s3/) > [*2017*](/audi/a3-s3/2017/)
+
 1. Start the engine.
 2. Press the MENU button to access the CAR or SYSTEMS menu (depends on options).
 3. Select SERVICE & CONTROL.
