@@ -3,6 +3,8 @@ layout: default
 title: Audi A4/S4 1997
 permalink: /audi/a4-s4/1997/
 ---
+[*Home*](/) > [*Audi*](/audi/) > [*A4/S4*](/audi/a4-s4/) > [*1997*](/audi/a4-s4/1997/)
+
 Manual Reset using Odometer and Reset Knobs:
 1. Turn off the ignition.
 2. Locate the Service Interval Display, which is below the odometer.

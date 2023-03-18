@@ -3,6 +3,8 @@ layout: default
 title: Audi Allroad 2001
 permalink: /audi/allroad/2001/
 ---
+[*Home*](/) > [*Audi*](/audi/) > [*Allroad*](/audi/allroad/) > [*2001*](/audi/allroad/2001/)
+
 Manual Reset using DIS and Reset Knobs:
 1. Turn off the ignition.
 2. Locate the Driver Information System (DIS) in the instrument panel.

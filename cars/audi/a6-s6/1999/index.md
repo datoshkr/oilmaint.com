@@ -3,6 +3,8 @@ layout: default
 title: Audi A6/S6 1999
 permalink: /audi/a6-s6/1999/
 ---
+[*Home*](/) > [*Audi*](/audi/) > [*A6/S6*](/audi/a6-s6/) > [*1999*](/audi/a6-s6/1999/)
+
 Manual Reset using Odometer and Reset Knobs:
 1. Turn off the ignition.
 2. Locate the Service Interval Display, which is below the odometer.

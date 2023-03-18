@@ -3,6 +3,8 @@ layout: default
 title: Audi A6/S6 2012
 permalink: /audi/a6-s6/2012/
 ---
+[*Home*](/) > [*Audi*](/audi/) > [*A6/S6*](/audi/a6-s6/) > [*2012*](/audi/a6-s6/2012/)
+
 1. Start the engine.
 2. Press the CAR button to access the service menu.
 3. From the CAR menu select CAR SYSTEMS.

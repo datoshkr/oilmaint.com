@@ -3,6 +3,8 @@ layout: default
 title: Audi A6/S6 2007
 permalink: /audi/a6-s6/2007/
 ---
+[*Home*](/) > [*Audi*](/audi/) > [*A6/S6*](/audi/a6-s6/) > [*2007*](/audi/a6-s6/2007/)
+
 ***Diagnostic Reset Tool Required**
 
 Manual Reset using DIS and Reset Knobs:
