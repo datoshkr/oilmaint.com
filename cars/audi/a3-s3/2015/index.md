@@ -8,7 +8,7 @@ permalink: /audi/a3-s3/2015/
 **Follow the instructions**
 
 1. Start the engine.
-2. Press the MENU button to access the CAR or SYSTEMS menu (depends on options).
+2. Press the MENU button to access the CAR or SYSTEMS menu (depending on the options).
 3. Select SERVICE & CONTROL.
 4. Select SERVICE INTERVALS.
 5. Select RESET OIL CHANGE INTERVAL.
