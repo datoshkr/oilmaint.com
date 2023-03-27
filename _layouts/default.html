@@ -18,9 +18,6 @@
     </div>
     <hr>
     <div class="section">
-      {% for item in site.data.cars.docs %}
-        <li><a href="{{ item.url }}">{{ item.title }}</a></li>
-      {% endfor %}
       <h2>{{ site.data.cars.select_manufacturer }}</h2>
       <ul>
          {% for item in site.data.cars.docs %}
