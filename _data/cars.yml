@@ -1,0 +1,11 @@
+select_manufacturer: Select manufacturer
+docs:
+
+- title: Audi
+  url: /audi/
+
+- title: BMW
+  url: /bmw/
+
+- title: Chevrolet
+  url: /chevrolet/
