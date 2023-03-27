@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Audi
-permalink: /audi/
 ---
 [*Home*](/) > [*Audi*](/audi/)
 
