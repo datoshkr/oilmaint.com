@@ -4,7 +4,9 @@ title: Infiniti FX Series
 permalink: /infiniti/fx-series/
 ---
 [*Home*](/) > [*Infiniti*](/infiniti/) > [*FX Series*](/infiniti/fx-series/)
+
 **Select year**
+
 - [2004](/infiniti/fx-series/2004/)
 - [2005](/infiniti/fx-series/2005/)
 - [2006](/infiniti/fx-series/2006/)

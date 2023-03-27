@@ -4,7 +4,9 @@ title: Nissan Titan
 permalink: /nissan/titan/
 ---
 [*Home*](/) > [*Nissan*](/nissan/) > [*Titan*](/nissan/titan/)
+
 **Select year**
+
 - [2006](/nissan/titan/2006/)
 - [2007](/nissan/titan/2007/)
 - [2008](/nissan/titan/2008/)

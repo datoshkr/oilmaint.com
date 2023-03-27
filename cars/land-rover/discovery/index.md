@@ -4,7 +4,9 @@ title: Land Rover Discovery
 permalink: /land-rover/discovery/
 ---
 [*Home*](/) > [*Land Rover*](/land-rover/) > [*Discovery*](/land-rover/discovery/)
+
 **Select year**
+
 - [2000](/land-rover/discovery/2000/)
 - [2001](/land-rover/discovery/2001/)
 - [2002](/land-rover/discovery/2002/)

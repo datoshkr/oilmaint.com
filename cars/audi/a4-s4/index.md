@@ -4,7 +4,9 @@ title: Audi A4/S4
 permalink: /audi/a4-s4/
 ---
 [*Home*](/) > [*Audi*](/audi/) > [*A4/S4*](/audi/a4-s4/)
+
 **Select year**
+
 - [1996](/audi/a4-s4/1996/)
 - [1997](/audi/a4-s4/1997/)
 - [1998](/audi/a4-s4/1998/)

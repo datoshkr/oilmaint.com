@@ -4,7 +4,9 @@ title: Audi A6/S6
 permalink: /audi/a6-s6/
 ---
 [*Home*](/) > [*Audi*](/audi/) > [*A6/S6*](/audi/a6-s6/)
+
 **Select year**
+
 - [1998](/audi/a6-s6/1998/)
 - [1999](/audi/a6-s6/1999/)
 - [2000](/audi/a6-s6/2000/)

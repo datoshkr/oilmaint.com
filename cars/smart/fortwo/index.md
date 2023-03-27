@@ -4,7 +4,9 @@ title: Smart fortwo
 permalink: /smart/fortwo/
 ---
 [*Home*](/) > [*Smart*](/smart/) > [*fortwo*](/smart/fortwo/)
+
 **Select year**
+
 - [2004](/smart/fortwo/2004/)
 - [2005](/smart/fortwo/2005/)
 - [2006](/smart/fortwo/2006/)

@@ -4,7 +4,9 @@ title: Toyota Sequoia
 permalink: /toyota/sequoia/
 ---
 [*Home*](/) > [*Toyota*](/toyota/) > [*Sequoia*](/toyota/sequoia/)
+
 **Select year**
+
 - [2005](/toyota/sequoia/2005/)
 - [2006](/toyota/sequoia/2006/)
 - [2007](/toyota/sequoia/2007/)

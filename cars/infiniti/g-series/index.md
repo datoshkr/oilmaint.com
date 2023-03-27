@@ -4,7 +4,9 @@ title: Infiniti G Series
 permalink: /infiniti/g-series/
 ---
 [*Home*](/) > [*Infiniti*](/infiniti/) > [*G Series*](/infiniti/g-series/)
+
 **Select year**
+
 - [2005](/infiniti/g-series/2005/)
 - [2006](/infiniti/g-series/2006/)
 - [2007](/infiniti/g-series/2007/)

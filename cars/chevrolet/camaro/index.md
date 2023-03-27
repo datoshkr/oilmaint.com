@@ -4,7 +4,9 @@ title: Chevrolet Camaro
 permalink: /chevrolet/camaro/
 ---
 [*Home*](/) > [*Chevrolet*](/chevrolet/) > [*Camaro*](/chevrolet/camaro/)
+
 **Select year**
+
 - [1999](/chevrolet/camaro/1999/)
 - [2000](/chevrolet/camaro/2000/)
 - [2001](/chevrolet/camaro/2001/)

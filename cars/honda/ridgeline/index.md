@@ -4,7 +4,9 @@ title: Honda Ridgeline
 permalink: /honda/ridgeline/
 ---
 [*Home*](/) > [*Honda*](/honda/) > [*Ridgeline*](/honda/ridgeline/)
+
 **Select year**
+
 - [2006](/honda/ridgeline/2006/)
 - [2007](/honda/ridgeline/2007/)
 - [2008](/honda/ridgeline/2008/)

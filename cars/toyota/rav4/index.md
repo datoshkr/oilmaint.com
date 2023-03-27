@@ -4,7 +4,9 @@ title: Toyota Rav4
 permalink: /toyota/rav4/
 ---
 [*Home*](/) > [*Toyota*](/toyota/) > [*Rav4*](/toyota/rav4/)
+
 **Select year**
+
 - [2005](/toyota/rav4/2005/)
 - [2006](/toyota/rav4/2006/)
 - [2007](/toyota/rav4/2007/)

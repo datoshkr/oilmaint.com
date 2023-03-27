@@ -4,7 +4,9 @@ title: Nissan Pathfinder
 permalink: /nissan/pathfinder/
 ---
 [*Home*](/) > [*Nissan*](/nissan/) > [*Pathfinder*](/nissan/pathfinder/)
+
 **Select year**
+
 - [2006](/nissan/pathfinder/2006/)
 - [2007](/nissan/pathfinder/2007/)
 - [2008](/nissan/pathfinder/2008/)

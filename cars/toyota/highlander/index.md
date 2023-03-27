@@ -4,7 +4,9 @@ title: Toyota Highlander
 permalink: /toyota/highlander/
 ---
 [*Home*](/) > [*Toyota*](/toyota/) > [*Highlander*](/toyota/highlander/)
+
 **Select year**
+
 - [2005](/toyota/highlander/2005/)
 - [2006](/toyota/highlander/2006/)
 - [2007](/toyota/highlander/2007/)

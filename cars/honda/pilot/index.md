@@ -4,7 +4,9 @@ title: Honda Pilot
 permalink: /honda/pilot/
 ---
 [*Home*](/) > [*Honda*](/honda/) > [*Pilot*](/honda/pilot/)
+
 **Select year**
+
 - [2003](/honda/pilot/2003/)
 - [2004](/honda/pilot/2004/)
 - [2005](/honda/pilot/2005/)

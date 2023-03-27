@@ -4,7 +4,9 @@ title: Ford Fusion
 permalink: /ford/fusion/
 ---
 [*Home*](/) > [*Ford*](/ford/) > [*Fusion*](/ford/fusion/)
+
 **Select year**
+
 - [2010](/ford/fusion/2010/)
 - [2011](/ford/fusion/2011/)
 - [2012](/ford/fusion/2012/)

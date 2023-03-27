@@ -4,7 +4,9 @@ title: Nissan Maxima
 permalink: /nissan/maxima/
 ---
 [*Home*](/) > [*Nissan*](/nissan/) > [*Maxima*](/nissan/maxima/)
+
 **Select year**
+
 - [2006](/nissan/maxima/2006/)
 - [2007](/nissan/maxima/2007/)
 - [2008](/nissan/maxima/2008/)

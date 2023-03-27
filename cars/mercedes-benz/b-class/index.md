@@ -4,7 +4,9 @@ title: Mercedes Benz B-Class
 permalink: /mercedes-benz/b-class/
 ---
 [*Home*](/) > [*Mercedes Benz*](/mercedes-benz/) > [*B-Class*](/mercedes-benz/b-class/)
+
 **Select year**
+
 - [2005](/mercedes-benz/b-class/2005/)
 - [2006](/mercedes-benz/b-class/2006/)
 - [2007](/mercedes-benz/b-class/2007/)

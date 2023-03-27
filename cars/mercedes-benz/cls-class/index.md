@@ -4,7 +4,9 @@ title: Mercedes Benz CLS-Class
 permalink: /mercedes-benz/cls-class/
 ---
 [*Home*](/) > [*Mercedes Benz*](/mercedes-benz/) > [*CLS-Class*](/mercedes-benz/cls-class/)
+
 **Select year**
+
 - [2005](/mercedes-benz/cls-class/2005/)
 - [2006](/mercedes-benz/cls-class/2006/)
 - [2007](/mercedes-benz/cls-class/2007/)

@@ -4,7 +4,9 @@ title: Volkswagen Golf/GTI
 permalink: /volkswagen/golf-gti/
 ---
 [*Home*](/) > [*Volkswagen*](/volkswagen/) > [*Golf/GTI*](/volkswagen/golf-gti/)
+
 **Select year**
+
 - [1993](/volkswagen/golf-gti/1993/)
 - [1994](/volkswagen/golf-gti/1994/)
 - [1995](/volkswagen/golf-gti/1995/)

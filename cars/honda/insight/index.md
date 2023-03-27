@@ -4,7 +4,9 @@ title: Honda Insight
 permalink: /honda/insight/
 ---
 [*Home*](/) > [*Honda*](/honda/) > [*Insight*](/honda/insight/)
+
 **Select year**
+
 - [2000](/honda/insight/2000/)
 - [2001](/honda/insight/2001/)
 - [2002](/honda/insight/2002/)

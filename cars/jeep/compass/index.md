@@ -4,7 +4,9 @@ title: Jeep Compass
 permalink: /jeep/compass/
 ---
 [*Home*](/) > [*Jeep*](/jeep/) > [*Compass*](/jeep/compass/)
+
 **Select year**
+
 - [2008](/jeep/compass/2008/)
 - [2009](/jeep/compass/2009/)
 - [2010](/jeep/compass/2010/)

@@ -4,7 +4,9 @@ title: Infiniti QX70
 permalink: /infiniti/qx70/
 ---
 [*Home*](/) > [*Infiniti*](/infiniti/) > [*QX70*](/infiniti/qx70/)
+
 **Select year**
+
 - [2014](/infiniti/qx70/2014/)
 - [2015](/infiniti/qx70/2015/)
 - [2016](/infiniti/qx70/2016/)

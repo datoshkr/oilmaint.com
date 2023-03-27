@@ -4,7 +4,9 @@ title: Lexus GX-Series
 permalink: /lexus/gx-series/
 ---
 [*Home*](/) > [*Lexus*](/lexus/) > [*GX-Series*](/lexus/gx-series/)
+
 **Select year**
+
 - [2004](/lexus/gx-series/2004/)
 - [2005](/lexus/gx-series/2005/)
 - [2006](/lexus/gx-series/2006/)

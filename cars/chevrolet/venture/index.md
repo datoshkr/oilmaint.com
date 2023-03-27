@@ -4,7 +4,9 @@ title: Chevrolet Venture
 permalink: /chevrolet/venture/
 ---
 [*Home*](/) > [*Chevrolet*](/chevrolet/) > [*Venture*](/chevrolet/venture/)
+
 **Select year**
+
 - [2000](/chevrolet/venture/2000/)
 - [2001](/chevrolet/venture/2001/)
 - [2002](/chevrolet/venture/2002/)

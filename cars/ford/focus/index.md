@@ -4,7 +4,9 @@ title: Ford Focus
 permalink: /ford/focus/
 ---
 [*Home*](/) > [*Ford*](/ford/) > [*Focus*](/ford/focus/)
+
 **Select year**
+
 - [2012](/ford/focus/2012/)
 - [2013](/ford/focus/2013/)
 - [2014](/ford/focus/2014/)
