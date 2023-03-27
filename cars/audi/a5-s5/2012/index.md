@@ -4,7 +4,6 @@ title: Audi A5/S5 2012
 permalink: /audi/a5-s5/2012/
 ---
 [*Home*](/) > [*Audi*](/audi/) > [*A5/S5*](/audi/a5-s5/) > [*2012*](/audi/a5-s5/2012/)
-
 1. Start the engine.
 2. Press the CAR button to access the service menu.
 3. From the CAR menu select CAR SYSTEMS.

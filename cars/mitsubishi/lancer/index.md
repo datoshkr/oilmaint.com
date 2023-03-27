@@ -4,9 +4,7 @@ title: Mitsubishi Lancer
 permalink: /mitsubishi/lancer/
 ---
 [*Home*](/) > [*Mitsubishi*](/mitsubishi/) > [*Lancer*](/mitsubishi/lancer/)
-
 **Select year**
-
 - [2008](/mitsubishi/lancer/2008/)
 - [2009](/mitsubishi/lancer/2009/)
 - [2010](/mitsubishi/lancer/2010/)

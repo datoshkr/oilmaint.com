@@ -4,9 +4,7 @@ title: Volvo V50
 permalink: /volvo/v50/
 ---
 [*Home*](/) > [*Volvo*](/volvo/) > [*V50*](/volvo/v50/)
-
 **Select year**
-
 - [2005](/volvo/v50/2005/)
 - [2006](/volvo/v50/2006/)
 - [2007](/volvo/v50/2007/)

@@ -4,9 +4,7 @@ title: Dodge Charger
 permalink: /dodge/charger/
 ---
 [*Home*](/) > [*Dodge*](/dodge/) > [*Charger*](/dodge/charger/)
-
 **Select year**
-
 - [2008](/dodge/charger/2008/)
 - [2009](/dodge/charger/2009/)
 - [2010](/dodge/charger/2010/)

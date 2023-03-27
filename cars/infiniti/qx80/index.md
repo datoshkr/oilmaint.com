@@ -4,9 +4,7 @@ title: Infiniti QX80
 permalink: /infiniti/qx80/
 ---
 [*Home*](/) > [*Infiniti*](/infiniti/) > [*QX80*](/infiniti/qx80/)
-
 **Select year**
-
 - [2014](/infiniti/qx80/2014/)
 - [2015](/infiniti/qx80/2015/)
 - [2016](/infiniti/qx80/2016/)

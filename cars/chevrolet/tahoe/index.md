@@ -4,9 +4,7 @@ title: Chevrolet Tahoe
 permalink: /chevrolet/tahoe/
 ---
 [*Home*](/) > [*Chevrolet*](/chevrolet/) > [*Tahoe*](/chevrolet/tahoe/)
-
 **Select year**
-
 - [2000](/chevrolet/tahoe/2000/)
 - [2001](/chevrolet/tahoe/2001/)
 - [2002](/chevrolet/tahoe/2002/)

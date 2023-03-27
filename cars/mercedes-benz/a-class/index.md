@@ -4,9 +4,7 @@ title: Mercedes Benz A-Class
 permalink: /mercedes-benz/a-class/
 ---
 [*Home*](/) > [*Mercedes Benz*](/mercedes-benz/) > [*A-Class*](/mercedes-benz/a-class/)
-
 **Select year**
-
 - [2005](/mercedes-benz/a-class/2005/)
 - [2006](/mercedes-benz/a-class/2006/)
 - [2007](/mercedes-benz/a-class/2007/)

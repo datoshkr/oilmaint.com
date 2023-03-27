@@ -4,9 +4,7 @@ title: Infiniti
 permalink: /infiniti/
 ---
 [*Home*](/) > [*Infiniti*](/infiniti/)
-
 **Select car make**
-
 - [EX Series](/infiniti/ex-series/)
 - [FX Series](/infiniti/fx-series/)
 - [G Series](/infiniti/g-series/)

@@ -4,9 +4,7 @@ title: Jeep Wrangler
 permalink: /jeep/wrangler/
 ---
 [*Home*](/) > [*Jeep*](/jeep/) > [*Wrangler*](/jeep/wrangler/)
-
 **Select year**
-
 - [2008](/jeep/wrangler/2008/)
 - [2009](/jeep/wrangler/2009/)
 - [2010](/jeep/wrangler/2010/)

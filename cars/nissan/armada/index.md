@@ -4,9 +4,7 @@ title: Nissan Armada
 permalink: /nissan/armada/
 ---
 [*Home*](/) > [*Nissan*](/nissan/) > [*Armada*](/nissan/armada/)
-
 **Select year**
-
 - [2008](/nissan/armada/2008/)
 - [2009](/nissan/armada/2009/)
 - [2010](/nissan/armada/2010/)

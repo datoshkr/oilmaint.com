@@ -4,9 +4,7 @@ title: MINI Cooper S
 permalink: /mini/cooper-s/
 ---
 [*Home*](/) > [*MINI*](/mini/) > [*Cooper S*](/mini/cooper-s/)
-
 **Select year**
-
 - [2006](/mini/cooper-s/2006/)
 - [2007](/mini/cooper-s/2007/)
 - [2008](/mini/cooper-s/2008/)

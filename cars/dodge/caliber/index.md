@@ -4,9 +4,7 @@ title: Dodge Caliber
 permalink: /dodge/caliber/
 ---
 [*Home*](/) > [*Dodge*](/dodge/) > [*Caliber*](/dodge/caliber/)
-
 **Select year**
-
 - [2008](/dodge/caliber/2008/)
 - [2009](/dodge/caliber/2009/)
 - [2010](/dodge/caliber/2010/)

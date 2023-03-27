@@ -4,9 +4,7 @@ title: Mercedes Benz E-Class
 permalink: /mercedes-benz/e-class/
 ---
 [*Home*](/) > [*Mercedes Benz*](/mercedes-benz/) > [*E-Class*](/mercedes-benz/e-class/)
-
 **Select year**
-
 - [1996](/mercedes-benz/e-class/1996/)
 - [1997](/mercedes-benz/e-class/1997/)
 - [1998](/mercedes-benz/e-class/1998/)

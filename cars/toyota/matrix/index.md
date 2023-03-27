@@ -4,9 +4,7 @@ title: Toyota Matrix
 permalink: /toyota/matrix/
 ---
 [*Home*](/) > [*Toyota*](/toyota/) > [*Matrix*](/toyota/matrix/)
-
 **Select year**
-
 - [2005](/toyota/matrix/2005/)
 - [2006](/toyota/matrix/2006/)
 - [2007](/toyota/matrix/2007/)

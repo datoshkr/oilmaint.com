@@ -4,9 +4,7 @@ title: Toyota Avalon
 permalink: /toyota/avalon/
 ---
 [*Home*](/) > [*Toyota*](/toyota/) > [*Avalon*](/toyota/avalon/)
-
 **Select year**
-
 - [2004](/toyota/avalon/2004/)
 - [2005](/toyota/avalon/2005/)
 - [2006](/toyota/avalon/2006/)

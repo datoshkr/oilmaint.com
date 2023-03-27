@@ -4,9 +4,7 @@ title: Chevrolet Silverado
 permalink: /chevrolet/silverado/
 ---
 [*Home*](/) > [*Chevrolet*](/chevrolet/) > [*Silverado*](/chevrolet/silverado/)
-
 **Select year**
-
 - [2001](/chevrolet/silverado/2001/)
 - [2002](/chevrolet/silverado/2002/)
 - [2003](/chevrolet/silverado/2003/)

@@ -4,9 +4,7 @@ title: Volkswagen Touraeg
 permalink: /volkswagen/touraeg/
 ---
 [*Home*](/) > [*Volkswagen*](/volkswagen/) > [*Touraeg*](/volkswagen/touraeg/)
-
 **Select year**
-
 - [2002](/volkswagen/touraeg/2002/)
 - [2003](/volkswagen/touraeg/2003/)
 - [2004](/volkswagen/touraeg/2004/)

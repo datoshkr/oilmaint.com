@@ -4,9 +4,7 @@ title: Chevrolet Trailblazer
 permalink: /chevrolet/trailblazer/
 ---
 [*Home*](/) > [*Chevrolet*](/chevrolet/) > [*Trailblazer*](/chevrolet/trailblazer/)
-
 **Select year**
-
 - [2004](/chevrolet/trailblazer/2004/)
 - [2005](/chevrolet/trailblazer/2005/)
 - [2006](/chevrolet/trailblazer/2006/)

@@ -4,9 +4,7 @@ title: Jaguar S-TYPE
 permalink: /jaguar/s-type/
 ---
 [*Home*](/) > [*Jaguar*](/jaguar/) > [*S-TYPE*](/jaguar/s-type/)
-
 **Select year**
-
 - [2002](/jaguar/s-type/2002/)
 - [2003](/jaguar/s-type/2003/)
 - [2004](/jaguar/s-type/2004/)

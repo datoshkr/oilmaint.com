@@ -4,9 +4,7 @@ title: Toyota Tacoma
 permalink: /toyota/tacoma/
 ---
 [*Home*](/) > [*Toyota*](/toyota/) > [*Tacoma*](/toyota/tacoma/)
-
 **Select year**
-
 - [2005](/toyota/tacoma/2005/)
 - [2006](/toyota/tacoma/2006/)
 - [2007](/toyota/tacoma/2007/)

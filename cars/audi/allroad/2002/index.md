@@ -4,7 +4,6 @@ title: Audi Allroad 2002
 permalink: /audi/allroad/2002/
 ---
 [*Home*](/) > [*Audi*](/audi/) > [*Allroad*](/audi/allroad/) > [*2002*](/audi/allroad/2002/)
-
 Manual Reset using DIS and Reset Knobs:
 1. Turn off the ignition.
 2. Locate the Driver Information System (DIS) in the instrument panel.
@@ -18,7 +17,6 @@ Manual Reset using DIS and Reset Knobs:
     2) Release the 0,0 button.
 6. Turn off the ignition.
 7. Start the engine and verify indicator has been reset.
-
 Manual Reset using DIS and Reset Knobs:
 1. Turn off the ignition.
 2. Locate the Driver Information System (DIS) in the instrument panel.

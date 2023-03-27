@@ -4,9 +4,7 @@ title: Volkswagen Cabrio
 permalink: /volkswagen/cabrio/
 ---
 [*Home*](/) > [*Volkswagen*](/volkswagen/) > [*Cabrio*](/volkswagen/cabrio/)
-
 **Select year**
-
 - [1995](/volkswagen/cabrio/1995/)
 - [1996](/volkswagen/cabrio/1996/)
 - [1997](/volkswagen/cabrio/1997/)

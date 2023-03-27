@@ -4,7 +4,6 @@ title: Audi A4/S4 2009
 permalink: /audi/a4-s4/2009/
 ---
 [*Home*](/) > [*Audi*](/audi/) > [*A4/S4*](/audi/a4-s4/) > [*2009*](/audi/a4-s4/2009/)
-
 1. Start the engine.
 2. Press the CAR button to access the service menu.
 3. From the CAR menu select CAR SYSTEMS.

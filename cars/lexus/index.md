@@ -4,9 +4,7 @@ title: Lexus
 permalink: /lexus/
 ---
 [*Home*](/) > [*Lexus*](/lexus/)
-
 **Select car make**
-
 - [CT-Series](/lexus/ct-series/)
 - [ES-Series](/lexus/es-series/)
 - [GS-Series](/lexus/gs-series/)

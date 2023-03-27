@@ -4,9 +4,7 @@ title: Mercedes Benz GL-Class
 permalink: /mercedes-benz/gl-class/
 ---
 [*Home*](/) > [*Mercedes Benz*](/mercedes-benz/) > [*GL-Class*](/mercedes-benz/gl-class/)
-
 **Select year**
-
 - [2007](/mercedes-benz/gl-class/2007/)
 - [2008](/mercedes-benz/gl-class/2008/)
 - [2009](/mercedes-benz/gl-class/2009/)

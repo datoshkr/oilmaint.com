@@ -4,9 +4,7 @@ title: Infiniti EX Series
 permalink: /infiniti/ex-series/
 ---
 [*Home*](/) > [*Infiniti*](/infiniti/) > [*EX Series*](/infiniti/ex-series/)
-
 **Select year**
-
 - [2008](/infiniti/ex-series/2008/)
 - [2009](/infiniti/ex-series/2009/)
 - [2010](/infiniti/ex-series/2010/)

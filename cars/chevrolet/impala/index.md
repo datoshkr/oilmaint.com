@@ -4,9 +4,7 @@ title: Chevrolet Impala
 permalink: /chevrolet/impala/
 ---
 [*Home*](/) > [*Chevrolet*](/chevrolet/) > [*Impala*](/chevrolet/impala/)
-
 **Select year**
-
 - [1995](/chevrolet/impala/1995/)
 - [1996](/chevrolet/impala/1996/)
 - [1997](/chevrolet/impala/1997/)

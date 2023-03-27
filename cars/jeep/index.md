@@ -4,9 +4,7 @@ title: Jeep
 permalink: /jeep/
 ---
 [*Home*](/) > [*Jeep*](/jeep/)
-
 **Select car make**
-
 - [Cherokee](/jeep/cherokee/)
 - [Commander](/jeep/commander/)
 - [Compass](/jeep/compass/)

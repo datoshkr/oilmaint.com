@@ -4,9 +4,7 @@ title: Volkswagen Jetta
 permalink: /volkswagen/jetta/
 ---
 [*Home*](/) > [*Volkswagen*](/volkswagen/) > [*Jetta*](/volkswagen/jetta/)
-
 **Select year**
-
 - [1993](/volkswagen/jetta/1993/)
 - [1994](/volkswagen/jetta/1994/)
 - [1995](/volkswagen/jetta/1995/)

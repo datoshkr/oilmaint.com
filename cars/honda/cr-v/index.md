@@ -4,9 +4,7 @@ title: Honda CR-V
 permalink: /honda/cr-v/
 ---
 [*Home*](/) > [*Honda*](/honda/) > [*CR-V*](/honda/cr-v/)
-
 **Select year**
-
 - [1997](/honda/cr-v/1997/)
 - [1998](/honda/cr-v/1998/)
 - [1999](/honda/cr-v/1999/)

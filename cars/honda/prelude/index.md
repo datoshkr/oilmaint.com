@@ -4,9 +4,7 @@ title: Honda Prelude
 permalink: /honda/prelude/
 ---
 [*Home*](/) > [*Honda*](/honda/) > [*Prelude*](/honda/prelude/)
-
 **Select year**
-
 - [1982](/honda/prelude/1982/)
 - [1983](/honda/prelude/1983/)
 - [1984](/honda/prelude/1984/)

@@ -4,9 +4,7 @@ title: Chevrolet Avalanche
 permalink: /chevrolet/avalanche/
 ---
 [*Home*](/) > [*Chevrolet*](/chevrolet/) > [*Avalanche*](/chevrolet/avalanche/)
-
 **Select year**
-
 - [2002](/chevrolet/avalanche/2002/)
 - [2003](/chevrolet/avalanche/2003/)
 - [2004](/chevrolet/avalanche/2004/)

@@ -4,9 +4,7 @@ title: Chevrolet Cruze
 permalink: /chevrolet/cruze/
 ---
 [*Home*](/) > [*Chevrolet*](/chevrolet/) > [*Cruze*](/chevrolet/cruze/)
-
 **Select year**
-
 - [2010](/chevrolet/cruze/2010/)
 - [2011](/chevrolet/cruze/2011/)
 - [2012](/chevrolet/cruze/2012/)

@@ -4,7 +4,6 @@ title: Audi A7/S7 2010
 permalink: /audi/a7-s7/2010/
 ---
 [*Home*](/) > [*Audi*](/audi/) > [*A7/S7*](/audi/a7-s7/) > [*2010*](/audi/a7-s7/2010/)
-
 1. Start the engine.
 2. Press the CAR button to access the service menu.
 3. From the CAR menu select CAR SYSTEMS.

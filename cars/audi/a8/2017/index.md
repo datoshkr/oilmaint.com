@@ -4,7 +4,6 @@ title: Audi A8 2017
 permalink: /audi/a8/2017/
 ---
 [*Home*](/) > [*Audi*](/audi/) > [*A8*](/audi/a8/) > [*2017*](/audi/a8/2017/)
-
 1. Start the engine.
 2. Press the CAR button to access the service menu.
 3. Select CAR SYSTEMS followed by SERVICING & CHECKS.

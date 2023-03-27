@@ -4,9 +4,7 @@ title: Jeep Grand Cherokee
 permalink: /jeep/grand-cherokee/
 ---
 [*Home*](/) > [*Jeep*](/jeep/) > [*Grand Cherokee*](/jeep/grand-cherokee/)
-
 **Select year**
-
 - [2008](/jeep/grand-cherokee/2008/)
 - [2009](/jeep/grand-cherokee/2009/)
 - [2010](/jeep/grand-cherokee/2010/)

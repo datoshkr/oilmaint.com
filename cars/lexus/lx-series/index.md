@@ -4,9 +4,7 @@ title: Lexus LX-Series
 permalink: /lexus/lx-series/
 ---
 [*Home*](/) > [*Lexus*](/lexus/) > [*LX-Series*](/lexus/lx-series/)
-
 **Select year**
-
 - [2005](/lexus/lx-series/2005/)
 - [2006](/lexus/lx-series/2006/)
 - [2007](/lexus/lx-series/2007/)

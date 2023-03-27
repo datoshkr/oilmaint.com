@@ -4,9 +4,7 @@ title: Honda Element
 permalink: /honda/element/
 ---
 [*Home*](/) > [*Honda*](/honda/) > [*Element*](/honda/element/)
-
 **Select year**
-
 - [2003](/honda/element/2003/)
 - [2004](/honda/element/2004/)
 - [2005](/honda/element/2005/)

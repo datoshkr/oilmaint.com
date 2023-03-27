@@ -4,9 +4,7 @@ title: Volkswagen Beetle
 permalink: /volkswagen/beetle/
 ---
 [*Home*](/) > [*Volkswagen*](/volkswagen/) > [*Beetle*](/volkswagen/beetle/)
-
 **Select year**
-
 - [1999](/volkswagen/beetle/1999/)
 - [2000](/volkswagen/beetle/2000/)
 - [2001](/volkswagen/beetle/2001/)

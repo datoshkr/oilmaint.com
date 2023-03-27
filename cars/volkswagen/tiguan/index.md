@@ -4,9 +4,7 @@ title: Volkswagen Tiguan
 permalink: /volkswagen/tiguan/
 ---
 [*Home*](/) > [*Volkswagen*](/volkswagen/) > [*Tiguan*](/volkswagen/tiguan/)
-
 **Select year**
-
 - [2009](/volkswagen/tiguan/2009/)
 - [2010](/volkswagen/tiguan/2010/)
 - [2011](/volkswagen/tiguan/2011/)

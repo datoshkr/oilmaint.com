@@ -4,9 +4,7 @@ title: Ford
 permalink: /ford/
 ---
 [*Home*](/) > [*Ford*](/ford/)
-
 **Select car make**
-
 - [C-MAX](/ford/c-max/)
 - [Connect](/ford/connect/)
 - [Crown Victoria](/ford/crown-victoria/)

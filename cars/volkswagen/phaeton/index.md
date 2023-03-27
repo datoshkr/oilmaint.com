@@ -4,9 +4,7 @@ title: Volkswagen Phaeton
 permalink: /volkswagen/phaeton/
 ---
 [*Home*](/) > [*Volkswagen*](/volkswagen/) > [*Phaeton*](/volkswagen/phaeton/)
-
 **Select year**
-
 - [2003](/volkswagen/phaeton/2003/)
 - [2004](/volkswagen/phaeton/2004/)
 - [2005](/volkswagen/phaeton/2005/)

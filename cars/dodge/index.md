@@ -4,9 +4,7 @@ title: Dodge
 permalink: /dodge/
 ---
 [*Home*](/) > [*Dodge*](/dodge/)
-
 **Select car make**
-
 - [Avenger](/dodge/avenger/)
 - [Caliber](/dodge/caliber/)
 - [Challenger](/dodge/challenger/)

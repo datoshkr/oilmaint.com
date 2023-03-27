@@ -4,9 +4,7 @@ title: Lexus ES-Series
 permalink: /lexus/es-series/
 ---
 [*Home*](/) > [*Lexus*](/lexus/) > [*ES-Series*](/lexus/es-series/)
-
 **Select year**
-
 - [2004](/lexus/es-series/2004/)
 - [2005](/lexus/es-series/2005/)
 - [2006](/lexus/es-series/2006/)

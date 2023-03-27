@@ -4,9 +4,7 @@ title: BMW Z4
 permalink: /bmw/z4/
 ---
 [*Home*](/) > [*BMW*](/bmw/) > [*Z4*](/bmw/z4/)
-
 **Select year**
-
 - [2004](/bmw/z4/2004/)
 - [2005](/bmw/z4/2005/)
 - [2006](/bmw/z4/2006/)

@@ -4,9 +4,7 @@ title: Toyota Sienna
 permalink: /toyota/sienna/
 ---
 [*Home*](/) > [*Toyota*](/toyota/) > [*Sienna*](/toyota/sienna/)
-
 **Select year**
-
 - [2005](/toyota/sienna/2005/)
 - [2006](/toyota/sienna/2006/)
 - [2007](/toyota/sienna/2007/)

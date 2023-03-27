@@ -4,9 +4,7 @@ title: Land Rover
 permalink: /land-rover/
 ---
 [*Home*](/) > [*Land Rover*](/land-rover/)
-
 **Select car make**
-
 - [Discovery](/land-rover/discovery/)
 - [Evoque](/land-rover/evoque/)
 - [LR2](/land-rover/lr2/)

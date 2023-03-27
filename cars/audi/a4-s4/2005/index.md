@@ -4,7 +4,6 @@ title: Audi A4/S4 2005
 permalink: /audi/a4-s4/2005/
 ---
 [*Home*](/) > [*Audi*](/audi/) > [*A4/S4*](/audi/a4-s4/) > [*2005*](/audi/a4-s4/2005/)
-
 Manual Reset using Odometer and Reset Knobs:
 1. Turn off the ignition.
 2. Locate the Service Interval Display, which is below the odometer.
@@ -17,7 +16,6 @@ Manual Reset using Odometer and Reset Knobs:
 6. Pull out the CLOCK ADJUSTMENT knob, hold for 2 seconds and release.
 7. Turn off the ignition.
 8. Start the engine and verify indicator has been reset.
-
 Manual Reset using DIS and Reset Knobs:
 1. Turn off the ignition.
 2. Locate the Driver Information System (DIS) in the instrument panel.

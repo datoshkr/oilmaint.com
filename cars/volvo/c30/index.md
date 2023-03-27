@@ -4,9 +4,7 @@ title: Volvo C30
 permalink: /volvo/c30/
 ---
 [*Home*](/) > [*Volvo*](/volvo/) > [*C30*](/volvo/c30/)
-
 **Select year**
-
 - [2007](/volvo/c30/2007/)
 - [2008](/volvo/c30/2008/)
 - [2009](/volvo/c30/2009/)

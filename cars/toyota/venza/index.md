@@ -4,9 +4,7 @@ title: Toyota Venza
 permalink: /toyota/venza/
 ---
 [*Home*](/) > [*Toyota*](/toyota/) > [*Venza*](/toyota/venza/)
-
 **Select year**
-
 - [2009](/toyota/venza/2009/)
 - [2010](/toyota/venza/2010/)
 - [2011](/toyota/venza/2011/)

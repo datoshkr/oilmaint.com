@@ -4,9 +4,7 @@ title: Mercedes Benz CLK-Class
 permalink: /mercedes-benz/clk-class/
 ---
 [*Home*](/) > [*Mercedes Benz*](/mercedes-benz/) > [*CLK-Class*](/mercedes-benz/clk-class/)
-
 **Select year**
-
 - [1997](/mercedes-benz/clk-class/1997/)
 - [1998](/mercedes-benz/clk-class/1998/)
 - [1999](/mercedes-benz/clk-class/1999/)

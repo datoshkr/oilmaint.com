@@ -4,9 +4,7 @@ title: Honda S2000
 permalink: /honda/s2000/
 ---
 [*Home*](/) > [*Honda*](/honda/) > [*S2000*](/honda/s2000/)
-
 **Select year**
-
 - [2000](/honda/s2000/2000/)
 - [2001](/honda/s2000/2001/)
 - [2002](/honda/s2000/2002/)

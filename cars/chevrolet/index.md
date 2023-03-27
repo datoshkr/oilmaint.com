@@ -4,9 +4,7 @@ title: Chevrolet
 permalink: /chevrolet/
 ---
 [*Home*](/) > [*Chevrolet*](/chevrolet/)
-
 **Select car make**
-
 - [Avalanche](/chevrolet/avalanche/)
 - [Aveo](/chevrolet/aveo/)
 - [C/K Trucks](/chevrolet/c-k-trucks/)

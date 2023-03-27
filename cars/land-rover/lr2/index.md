@@ -4,9 +4,7 @@ title: Land Rover LR2
 permalink: /land-rover/lr2/
 ---
 [*Home*](/) > [*Land Rover*](/land-rover/) > [*LR2*](/land-rover/lr2/)
-
 **Select year**
-
 - [2006](/land-rover/lr2/2006/)
 - [2007](/land-rover/lr2/2007/)
 - [2008](/land-rover/lr2/2008/)

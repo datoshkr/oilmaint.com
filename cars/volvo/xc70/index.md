@@ -4,9 +4,7 @@ title: Volvo XC70
 permalink: /volvo/xc70/
 ---
 [*Home*](/) > [*Volvo*](/volvo/) > [*XC70*](/volvo/xc70/)
-
 **Select year**
-
 - [2001](/volvo/xc70/2001/)
 - [2002](/volvo/xc70/2002/)
 - [2003](/volvo/xc70/2003/)

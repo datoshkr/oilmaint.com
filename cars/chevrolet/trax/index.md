@@ -4,9 +4,7 @@ title: Chevrolet Trax
 permalink: /chevrolet/trax/
 ---
 [*Home*](/) > [*Chevrolet*](/chevrolet/) > [*Trax*](/chevrolet/trax/)
-
 **Select year**
-
 - [2013](/chevrolet/trax/2013/)
 - [2015](/chevrolet/trax/2015/)
 - [2016](/chevrolet/trax/2016/)

@@ -4,9 +4,7 @@ title: Mercedes Benz CL-Class
 permalink: /mercedes-benz/cl-class/
 ---
 [*Home*](/) > [*Mercedes Benz*](/mercedes-benz/) > [*CL-Class*](/mercedes-benz/cl-class/)
-
 **Select year**
-
 - [2000](/mercedes-benz/cl-class/2000/)
 - [2001](/mercedes-benz/cl-class/2001/)
 - [2002](/mercedes-benz/cl-class/2002/)

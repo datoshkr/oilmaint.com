@@ -4,9 +4,7 @@ title: Ford Taurus
 permalink: /ford/taurus/
 ---
 [*Home*](/) > [*Ford*](/ford/) > [*Taurus*](/ford/taurus/)
-
 **Select year**
-
 - [2008](/ford/taurus/2008/)
 - [2009](/ford/taurus/2009/)
 - [2010](/ford/taurus/2010/)

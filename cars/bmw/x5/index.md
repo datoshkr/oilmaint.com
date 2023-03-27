@@ -4,9 +4,7 @@ title: BMW X5
 permalink: /bmw/x5/
 ---
 [*Home*](/) > [*BMW*](/bmw/) > [*X5*](/bmw/x5/)
-
 **Select year**
-
 - [2001](/bmw/x5/2001/)
 - [2002](/bmw/x5/2002/)
 - [2003](/bmw/x5/2003/)

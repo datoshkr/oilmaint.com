@@ -4,9 +4,7 @@ title: Hyundai
 permalink: /hyundai/
 ---
 [*Home*](/) > [*Hyundai*](/hyundai/)
-
 **Select car make**
-
 - [Azera](/hyundai/azera/)
 - [Elantra](/hyundai/elantra/)
 - [Equus](/hyundai/equus/)

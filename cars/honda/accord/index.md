@@ -4,9 +4,7 @@ title: Honda Accord
 permalink: /honda/accord/
 ---
 [*Home*](/) > [*Honda*](/honda/) > [*Accord*](/honda/accord/)
-
 **Select year**
-
 - [1982](/honda/accord/1982/)
 - [1983](/honda/accord/1983/)
 - [1984](/honda/accord/1984/)

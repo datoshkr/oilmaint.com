@@ -4,9 +4,7 @@ title: Toyota Tundra
 permalink: /toyota/tundra/
 ---
 [*Home*](/) > [*Toyota*](/toyota/) > [*Tundra*](/toyota/tundra/)
-
 **Select year**
-
 - [2005](/toyota/tundra/2005/)
 - [2006](/toyota/tundra/2006/)
 - [2007](/toyota/tundra/2007/)

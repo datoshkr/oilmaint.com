@@ -4,9 +4,7 @@ title: BMW X6
 permalink: /bmw/x6/
 ---
 [*Home*](/) > [*BMW*](/bmw/) > [*X6*](/bmw/x6/)
-
 **Select year**
-
 - [2008](/bmw/x6/2008/)
 - [2009](/bmw/x6/2009/)
 - [2010](/bmw/x6/2010/)

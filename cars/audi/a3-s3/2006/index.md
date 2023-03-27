@@ -4,7 +4,6 @@ title: Audi A3/S3 2006
 permalink: /audi/a3-s3/2006/
 ---
 [*Home*](/) > [*Audi*](/audi/) > [*A3/S3*](/audi/a3-s3/) > [*2006*](/audi/a3-s3/2006/)
-
 1. Turn off the ignition.
 2. Press and hold the button to the right of the LCD display in the instrument cluster.
 3. Turn the ignition on (do not start the engine); the message "SERVICE" appears. Release button.

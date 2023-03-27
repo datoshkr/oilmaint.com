@@ -4,9 +4,7 @@ title: Honda Odyssey
 permalink: /honda/odyssey/
 ---
 [*Home*](/) > [*Honda*](/honda/) > [*Odyssey*](/honda/odyssey/)
-
 **Select year**
-
 - [1995](/honda/odyssey/1995/)
 - [1996](/honda/odyssey/1996/)
 - [1997](/honda/odyssey/1997/)

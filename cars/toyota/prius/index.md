@@ -4,9 +4,7 @@ title: Toyota Prius
 permalink: /toyota/prius/
 ---
 [*Home*](/) > [*Toyota*](/toyota/) > [*Prius*](/toyota/prius/)
-
 **Select year**
-
 - [2009](/toyota/prius/2009/)
 - [2010](/toyota/prius/2010/)
 - [2011](/toyota/prius/2011/)

@@ -4,9 +4,7 @@ title: Toyota Yaris
 permalink: /toyota/yaris/
 ---
 [*Home*](/) > [*Toyota*](/toyota/) > [*Yaris*](/toyota/yaris/)
-
 **Select year**
-
 - [2009](/toyota/yaris/2009/)
 - [2010](/toyota/yaris/2010/)
 - [2011](/toyota/yaris/2011/)

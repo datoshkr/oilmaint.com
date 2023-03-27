@@ -4,9 +4,7 @@ title: Volvo S60
 permalink: /volvo/s60/
 ---
 [*Home*](/) > [*Volvo*](/volvo/) > [*S60*](/volvo/s60/)
-
 **Select year**
-
 - [2001](/volvo/s60/2001/)
 - [2002](/volvo/s60/2002/)
 - [2003](/volvo/s60/2003/)

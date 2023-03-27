@@ -4,9 +4,7 @@ title: Mercedes Benz M-Class
 permalink: /mercedes-benz/m-class/
 ---
 [*Home*](/) > [*Mercedes Benz*](/mercedes-benz/) > [*M-Class*](/mercedes-benz/m-class/)
-
 **Select year**
-
 - [1998](/mercedes-benz/m-class/1998/)
 - [1999](/mercedes-benz/m-class/1999/)
 - [2000](/mercedes-benz/m-class/2000/)

@@ -4,9 +4,7 @@ title: Ford Sport Trac
 permalink: /ford/sport-trac/
 ---
 [*Home*](/) > [*Ford*](/ford/) > [*Sport Trac*](/ford/sport-trac/)
-
 **Select year**
-
 - [2006](/ford/sport-trac/2006/)
 - [2007](/ford/sport-trac/2007/)
 - [2008](/ford/sport-trac/2008/)

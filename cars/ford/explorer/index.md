@@ -4,9 +4,7 @@ title: Ford Explorer
 permalink: /ford/explorer/
 ---
 [*Home*](/) > [*Ford*](/ford/) > [*Explorer*](/ford/explorer/)
-
 **Select year**
-
 - [1999](/ford/explorer/1999/)
 - [2000](/ford/explorer/2000/)
 - [2001](/ford/explorer/2001/)

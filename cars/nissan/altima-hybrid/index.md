@@ -4,9 +4,7 @@ title: Nissan Altima/Hybrid
 permalink: /nissan/altima-hybrid/
 ---
 [*Home*](/) > [*Nissan*](/nissan/) > [*Altima/Hybrid*](/nissan/altima-hybrid/)
-
 **Select year**
-
 - [2007](/nissan/altima-hybrid/2007/)
 - [2008](/nissan/altima-hybrid/2008/)
 - [2009](/nissan/altima-hybrid/2009/)

@@ -4,9 +4,7 @@ title: BMW 6 Series
 permalink: /bmw/6-series/
 ---
 [*Home*](/) > [*BMW*](/bmw/) > [*6 Series*](/bmw/6-series/)
-
 **Select year**
-
 - [2004](/bmw/6-series/2004/)
 - [2005](/bmw/6-series/2005/)
 - [2006](/bmw/6-series/2006/)

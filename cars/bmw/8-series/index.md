@@ -4,9 +4,7 @@ title: BMW 8 Series
 permalink: /bmw/8-series/
 ---
 [*Home*](/) > [*BMW*](/bmw/) > [*8 Series*](/bmw/8-series/)
-
 **Select year**
-
 - [1991](/bmw/8-series/1991/)
 - [1992](/bmw/8-series/1992/)
 - [1993](/bmw/8-series/1993/)

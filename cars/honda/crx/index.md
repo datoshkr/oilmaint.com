@@ -4,9 +4,7 @@ title: Honda CRX
 permalink: /honda/crx/
 ---
 [*Home*](/) > [*Honda*](/honda/) > [*CRX*](/honda/crx/)
-
 **Select year**
-
 - [1984](/honda/crx/1984/)
 - [1985](/honda/crx/1985/)
 - [1986](/honda/crx/1986/)

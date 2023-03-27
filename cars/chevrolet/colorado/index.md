@@ -4,9 +4,7 @@ title: Chevrolet Colorado
 permalink: /chevrolet/colorado/
 ---
 [*Home*](/) > [*Chevrolet*](/chevrolet/) > [*Colorado*](/chevrolet/colorado/)
-
 **Select year**
-
 - [2004](/chevrolet/colorado/2004/)
 - [2005](/chevrolet/colorado/2005/)
 - [2006](/chevrolet/colorado/2006/)

@@ -4,7 +4,6 @@ title: Audi A6/S6 2011
 permalink: /audi/a6-s6/2011/
 ---
 [*Home*](/) > [*Audi*](/audi/) > [*A6/S6*](/audi/a6-s6/) > [*2011*](/audi/a6-s6/2011/)
-
 1. Start the engine.
 2. Press the CAR button to access the service menu.
 3. From the CAR menu select CAR SYSTEMS.

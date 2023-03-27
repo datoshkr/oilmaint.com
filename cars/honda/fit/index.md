@@ -4,9 +4,7 @@ title: Honda Fit
 permalink: /honda/fit/
 ---
 [*Home*](/) > [*Honda*](/honda/) > [*Fit*](/honda/fit/)
-
 **Select year**
-
 - [2007](/honda/fit/2007/)
 - [2008](/honda/fit/2008/)
 - [2009](/honda/fit/2009/)

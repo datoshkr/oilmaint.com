@@ -4,9 +4,7 @@ title: Ford Mustang
 permalink: /ford/mustang/
 ---
 [*Home*](/) > [*Ford*](/ford/) > [*Mustang*](/ford/mustang/)
-
 **Select year**
-
 - [2010](/ford/mustang/2010/)
 - [2011](/ford/mustang/2011/)
 - [2012](/ford/mustang/2012/)

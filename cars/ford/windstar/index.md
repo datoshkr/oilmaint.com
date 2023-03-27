@@ -4,9 +4,7 @@ title: Ford Windstar
 permalink: /ford/windstar/
 ---
 [*Home*](/) > [*Ford*](/ford/) > [*Windstar*](/ford/windstar/)
-
 **Select year**
-
 - [1997](/ford/windstar/1997/)
 - [1998](/ford/windstar/1998/)
 - [1999](/ford/windstar/1999/)

@@ -4,9 +4,7 @@ title: Infiniti QX56
 permalink: /infiniti/qx56/
 ---
 [*Home*](/) > [*Infiniti*](/infiniti/) > [*QX56*](/infiniti/qx56/)
-
 **Select year**
-
 - [2004](/infiniti/qx56/2004/)
 - [2005](/infiniti/qx56/2005/)
 - [2006](/infiniti/qx56/2006/)
