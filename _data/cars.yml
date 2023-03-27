@@ -1,9 +1,6 @@
 select_manufacturer: Select manufacturer
 docs:
 
-- title: Home
-  url: /
-
 - title: Audi
   url: /cars/audi/
 
