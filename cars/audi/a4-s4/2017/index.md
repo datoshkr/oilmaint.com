@@ -4,8 +4,11 @@ title: Audi A4/S4 2017
 permalink: /audi/a4-s4/2017/
 ---
 [*Home*](/) > [*Audi*](/audi/) > [*A4/S4*](/audi/a4-s4/) > [*2017*](/audi/a4-s4/2017/)
+
+**Follow the instructions**
+
 1. Start the engine.
-2. Press the MENU button to access the VEHICLE menu and select with the left control button.
+2. Press the MENU button to access the VEHICLE menu and select the left control button.
 3. Select Service & Checks.
 4. Select SERVICE INTERVALS.
 5. Select RESET OIL CHANGE INTERVAL.
