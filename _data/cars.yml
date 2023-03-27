@@ -2,70 +2,70 @@ select_manufacturer: Select manufacturer
 docs:
 
 - title: Audi
-  url: /audi/
-  
+  url: /cars/audi/
+
 - title: BMW
-  url: /bmw/
+  url: /cars/bmw/
 
 - title: Chevrolet
-  url: /chevrolet/
+  url: /cars/chevrolet/
 
 - title: Dodge
-  url: /dodge/
+  url: /cars/dodge/
 
 - title: Ford
-  url: /ford/
+  url: /cars/ford/
 
 - title: Honda
-  url: /honda/
+  url: /cars/honda/
 
 - title: Hyundai
-  url: /hyundai/
+  url: /cars/hyundai/
 
 - title: Infiniti
-  url: /infiniti/
+  url: /cars/infiniti/
 
 - title: Jaguar
-  url: /jaguar/
+  url: /cars/jaguar/
 
 - title: Jeep
-  url: /jeep/
+  url: /cars/jeep/
 
 - title: Kia
-  url: /kia/
+  url: /cars/kia/
 
 - title: Land Rover
-  url: /land-rover/
+  url: /cars/land-rover/
 
 - title: Lexus
-  url: /lexus/
+  url: /cars/lexus/
 
 - title: Mazda
-  url: /mazda/
+  url: /cars/mazda/
 
 - title: Mercedes Benz
-  url: /mercedes-benz/
+  url: /cars/mercedes-benz/
 
 - title: MINI
-  url: /mini/
+  url: /cars/mini/
 
 - title: Mitsubishi
-  url: /mitsubishi/
+  url: /cars/mitsubishi/
 
 - title: Nissan
-  url: /nissan/
+  url: /cars/nissan/
 
 - title: Smart
-  url: /smart/
+  url: /cars/smart/
 
 - title: Subaru
-  url: /subaru/
+  url: /cars/subaru/
 
 - title: Toyota
-  url: /toyota/
+  url: /cars/toyota/
 
 - title: Volkswagen
-  url: /volkswagen/
+  url: /cars/volkswagen/
 
 - title: Volvo
-  url: /volvo/
+  url: /cars/volvo/
