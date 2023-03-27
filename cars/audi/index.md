@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: car
 title: Audi
 ---
 [*Home*](/) > [*Audi*](/audi/)
