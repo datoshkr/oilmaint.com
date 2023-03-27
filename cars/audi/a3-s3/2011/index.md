@@ -4,6 +4,9 @@ title: Audi A3/S3 2011
 permalink: /audi/a3-s3/2011/
 ---
 [*Home*](/) > [*Audi*](/audi/) > [*A3/S3*](/audi/a3-s3/) > [*2011*](/audi/a3-s3/2011/)
+
+**Follow the instructions**
+
 1. Start the engine.
 2. Press the CAR button to access the service menu.
 3. From the CAR menu select CAR SYSTEMS.
