@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Audi A4/S4 2004
-permalink: /audi/a4-s4/2004/
+title: Audi A3/S3 2008-2014
+permalink: /audi/a3-s3/2008-2014/
 ---
 [*Home*](/) > [*CAR*](/car/) > [*MODEL*](/car/model/) > [*YEAR*](/car/model/year/)
 
