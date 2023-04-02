@@ -3,4 +3,6 @@ layout: default
 title: BMW 3 Series 1992
 permalink: /bmw/3-series/1992/
 ---
-[*Home*](/) > [*BMW*](/bmw/) > [*3 Series*](/bmw/3-series/) > [*1992*](/bmw/3-series/1992/)
+[*Home*](/) > [*CAR*](/car/) > [*MODEL*](/car/model/) > [*YEAR*](/car/model/year/)
+
+**Follow the instructions**

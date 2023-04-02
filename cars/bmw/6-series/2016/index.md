@@ -3,4 +3,6 @@ layout: default
 title: BMW 6 Series 2016
 permalink: /bmw/6-series/2016/
 ---
-[*Home*](/) > [*BMW*](/bmw/) > [*6 Series*](/bmw/6-series/) > [*2016*](/bmw/6-series/2016/)
+[*Home*](/) > [*CAR*](/car/) > [*MODEL*](/car/model/) > [*YEAR*](/car/model/year/)
+
+**Follow the instructions**
