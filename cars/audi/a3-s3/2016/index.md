@@ -3,14 +3,6 @@ layout: default
 title: Audi A3/S3 2016
 permalink: /audi/a3-s3/2016/
 ---
-[*Home*](/) > [*Audi*](/audi/) > [*A3/S3*](/audi/a3-s3/) > [*2016*](/audi/a3-s3/2016/)
+[*Home*](/) > [*CAR*](/car/) > [*MODEL*](/car/model/) > [*YEAR*](/car/model/year/)
 
 **Follow the instructions**
-
-1. Start the engine.
-2. Press the MENU button to access the CAR or SYSTEMS menu (depending on the options).
-3. Select SERVICE & CONTROL.
-4. Select SERVICE INTERVALS.
-5. Select RESET OIL CHANGE INTERVAL.
-6. Turn off the ignition.
-7. Start the engine and verify the indicator has been reset.
