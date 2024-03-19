@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "description": "OilMaint Description",
+  "dir": "auto",
+  "display": "fullscreen",
+  "name": "OilMaint Name",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "OilMaint Short Name",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "lang": "en"
+}
